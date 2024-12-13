@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-# À propos de moi
+
 
 Data Analyst passionné, j’ai fait de mon parcours atypique ma plus grande force.
 
