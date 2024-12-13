@@ -6,11 +6,15 @@ permalink: /about/
 
 # À propos de moi
 
-Je suis un **Data Analyst** passionné par l'exploration des données et la recherche de solutions à des problèmes complexes. Mon parcours est tout sauf linéaire, et c’est ce qui fait ma force. Quand j'ai commencé ma reconversion dans la **data**, je partais de zéro : Excel m'était totalement inconnu et l'informatique semblait un terrain inconnu. Pourtant, cette nouvelle passion est devenue un moteur. J'ai appris à une vitesse folle, rattrapant rapidement mon retard et allant même au-delà de mon programme de formation. J'ai pris l'initiative de me former par moi-même, me lançant dans des projets en **Data Science**, et aujourd'hui, je me sens aussi à l'aise avec le **Machine Learning** qu'avec des outils comme **SQL**, **Python** et **Streamlit**.
+Data Analyst passionné, j’ai fait de mon parcours atypique ma plus grande force.
+Après des études scientifiques et des postes de cadre dans l’armée et les travaux publics, j’ai découvert par hasard le monde de la data. Un univers complexe, en constante évolution, qui m’a captivé au point de me pousser hors de ma zone de confort pour relever un des défis les plus stimulants : repartir de zéro et tout apprendre.
 
-Ce parcours, tout en autodidaxie, m'a permis de découvrir une soif d'apprendre qui ne me quitte jamais. Ce désir constant d'améliorer mes compétences et d'explorer de nouveaux horizons est ce qui me motive dans mon quotidien professionnel. Au-delà des compétences techniques, j'ai également développé des qualités humaines essentielles tout au long de mes expériences en tant que militaire et paysagiste. Ces postes m'ont permis de renforcer des compétences en gestion de projet, leadership et gestion du stress, des atouts précieux pour avancer avec rigueur et efficacité dans un environnement de travail dynamique.
+Au début de ma formation, l’informatique m’était totalement inconnu. Mais avec une curiosité sans limite et une soif d’apprendre, j’ai rapidement pris de l’avance sur mon planning. Ce temps gagné, je l’ai mis à profit pour approfondir mes connaissances de manière autonome, explorant des projets de machine learning qui m’ont permis de maîtriser les outils, d’adopter les bonnes pratiques, et d’aller de l’exploration des données jusqu’à leur mise en production.
 
-Aujourd'hui, mon objectif est simple : utiliser ma curiosité insatiable et mes compétences techniques pour contribuer à des projets d'analyse de données qui font la différence.
+Aujourd’hui, ce désir d’apprendre et de relever de nouveaux défis continue de me motiver. Je suis prêt à me lancer dans des projets concrets au sein d’une entreprise, pour mettre en pratique non seulement mes compétences techniques, mais aussi les qualités humaines que j’ai développées tout au long de mon parcours : travail en équipe, communication, pédagogie, et gestion du stress. Ces atouts me permettent d’évoluer avec rigueur et efficacité dans un environnement dynamique.
+
+Mon objectif est clair : mettre ma curiosité insatiable et mes compétences au service de projets ambitieux en data science et data analysis, et continuer à progresser pour repousser mes propres limites.
+
 
 ---
 
