@@ -1,6 +1,6 @@
 ---
 layout: page
-title: à propos de moi
+title: A propos de moi
 permalink: /about/
 ---
 
@@ -10,11 +10,11 @@ Data Analyst passionné, j’ai fait de mon parcours atypique ma plus grande for
 
 Après des études scientifiques et des postes de cadre dans l’armée et les travaux publics, j’ai découvert par hasard le monde de la data. Un univers complexe, en constante évolution, qui m’a captivé au point de me pousser hors de ma zone de confort pour relever un des défis les plus stimulants : repartir de zéro et tout apprendre.
 
-Au début de ma formation, l’informatique m’était totalement inconnu. Mais avec une curiosité sans limite et une soif d’apprendre, j’ai rapidement pris de l’avance sur mon planning. Ce temps gagné, je l’ai mis à profit pour approfondir mes connaissances de manière autonome, explorant des projets de machine learning qui m’ont permis de maîtriser les outils, d’adopter les bonnes pratiques, et d’aller de l’exploration des données jusqu’à leur mise en production.
+Au début de ma formation, l’informatique m’était totalement inconnu. Mais avec une curiosité sans limite et ma soif d’apprendre, j’ai rapidement pris de l’avance sur mon planning. Ce temps gagné, je l’ai mis à profit pour approfondir mes connaissances de manière autonome, explorant des projets de machine learning qui m’ont permis de maîtriser les outils, d’adopter les bonnes pratiques, en allant de l’exploration des données jusqu’à la mise en production de modèles.
 
-Aujourd’hui, ce désir d’apprendre et de relever de nouveaux défis continue de me motiver. Je suis prêt à me lancer dans des projets concrets au sein d’une entreprise, pour mettre en pratique non seulement mes compétences techniques, mais aussi les qualités humaines que j’ai développées tout au long de mon parcours : travail en équipe, communication, pédagogie, et gestion du stress. Ces atouts me permettent d’évoluer avec rigueur et efficacité dans un environnement dynamique.
+Aujourd’hui, ce désir d’apprendre et de relever de nouveaux défis continue de me motiver. Je suis désormais prêt à me lancer dans des projets concrets au sein d’une entreprise, pour mettre en pratique non seulement mes compétences techniques, mais aussi les qualités humaines que j’ai développées tout au long de mon parcours : travail en équipe, communication, pédagogie, et gestion du stress. Des atouts essentiels pour évoluer avec rigueur et efficacité dans un environnement dynamique.
 
-Mon objectif est clair : mettre ma curiosité insatiable et mes compétences au service de projets ambitieux en data science et data analysis, et continuer à progresser pour repousser mes propres limites.
+Mon objectif est clair : mettre ma curiosité insatiable et mes compétences au service de projets ambitieux en data science et data analysis, et continuer à progresser pour repousser encore mes propres limites.
 
 
 ---
