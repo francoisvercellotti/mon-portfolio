@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mon Projet
+title: Créer et Utiliser une Base de Données avec SQL
 permalink: /mon-projet/
 ---
 
