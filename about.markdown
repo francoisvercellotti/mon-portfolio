@@ -6,7 +6,7 @@ permalink: /about/
 
 
 
-Data Analyst passionné, j’ai fait de mon parcours atypique ma plus grande force.
+Data Analyst passionné, j’ai fait de la richesse de mon pracours ma plus grande force.
 
 Après des études scientifiques et des postes de cadre dans l’armée et les travaux publics, j’ai découvert par hasard le monde de la data. Un univers complexe, en constante évolution, qui m’a captivé au point de me pousser hors de ma zone de confort pour relever un des défis les plus stimulants : repartir de zéro et tout apprendre.
 
