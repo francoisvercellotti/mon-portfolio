@@ -4,19 +4,19 @@ title: "Mes Projets"
 permalink: /projects/
 ---
 
- <style>
+<style>
 .project-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    gap: 20px; /* Ajout d'un écart entre les cartes */
 }
 
 .project-card {
-    width: 48%;
+    width: calc(50% - 10px); /* Prendre 50% de la largeur moins un peu d'espace pour le gap */
     background: #f8f8f8;
     border-radius: 8px;
     padding: 15px;
-    margin: 10px 0;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
 
@@ -32,7 +32,7 @@ permalink: /projects/
 
 @media (max-width: 768px) {
     .project-card {
-        width: 100%;
+        width: 100%; /* En dessous de 768px, chaque projet occupe toute la largeur */
     }
 }
 </style>
@@ -56,7 +56,7 @@ permalink: /projects/
 
     <div class="project-card">
         <h3><a href="https://github.com/francoisvercellotti/tableau_bord_acces_eau_potable.git">Tableau de bord pour l'identification des besoins en accès à l'eau potable</a></h3>
-        <img src="https://github.com/user-attachments/assets/89301542-a6ac-4f55-bb0d-3ad340a2c0a3" alt="Projet Eau Potable">
+        <img src="https://github.com/user-attachments/assets/f5343c5d-40a3-44be-996f-e5f2a79753ea" alt="Projet Eau Potable">
         <p>Dans le cadre de ma mission en tant que consultant data analyst pour l’ONG DWFA (Drinking Water For All), 
         j'ai développé un tableau de bord interactif permettant d’identifier les pays ayant des difficultés d'accès à l’eau potable. 
         L’objectif était de prioriser les efforts d’intervention et d’optimiser la répartition des ressources.</p>
