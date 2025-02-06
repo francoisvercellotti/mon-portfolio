@@ -6,11 +6,7 @@ permalink: /about/
 
 
 
----
-layout: default
-title: A propos de moi
-permalink: /about/
----
+
 
 <style>
 /* Style de la section About */
@@ -21,6 +17,7 @@ permalink: /about/
   margin: 20px;
 }
 
+/* Section photo */
 .photo-container {
   flex-shrink: 0;
 }
@@ -33,7 +30,7 @@ permalink: /about/
   border: 2px solid #ccc; /* Bordure autour de l'image */
 }
 
-/* Style pour le texte de la section About */
+/* Section contenu */
 .about-content {
   flex: 1;
 }
@@ -48,14 +45,67 @@ ul li {
   margin: 10px 0;
   font-size: 1.1em;
 }
+
+/* Section de mise en forme pour les compétences, formations, et soft skills */
+.section-left {
+  flex: 1;
+  margin-right: 30px;
+}
+
+h3 {
+  font-size: 1.4em;
+  margin-bottom: 15px;
+}
+
+ul li {
+  margin: 5px 0;
+}
+
+.skills-list li {
+  font-size: 1.1em;
+}
+
 </style>
 
 <div class="about-container">
   <!-- Photo ronde sur la gauche -->
   <div class="photo-container">
-    <img src="!(https://github.com/user-attachments/assets/b42a9ba1-0b07-4b02-90bd-283fc1a8c002)" alt="Photo de profil" class="profile-photo">
+    <img src="https://github.com/user-attachments/assets/b42a9ba1-0b07-4b02-90bd-283fc1a8c002" alt="Photo de profil" class="profile-photo">
   </div>
-  
+
+  <div class="section-left">
+    <!-- Formation -->
+    <div class="formation">
+      <h3>Formation</h3>
+      <ul>
+        <li><strong>2024</strong> - Data Analyst (OpenClassrooms)</li>
+        <li><strong>2000-2001</strong> - Licence Science de la matière (Physique Chimie)</li>
+        <li><strong>1998-2000</strong> - DEUG Science de la matière (Physique Chimie)</li>
+      </ul>
+    </div>
+
+    <!-- Expertise technique -->
+    <div class="expertise">
+      <h3>Expertise technique</h3>
+      <ul class="skills-list">
+        <li>Python, Numpy, Pandas, SQL</li>
+        <li>ScikitLearn, Git/GitHub, MLflow</li>
+        <li>Docker, PowerBI, Streamlit</li>
+      </ul>
+    </div>
+
+    <!-- Soft Skills -->
+    <div class="soft-skills">
+      <h3>Soft Skills</h3>
+      <ul>
+        <li>Adaptabilité, Autonomie</li>
+        <li>Curiosité Intellectuelle, Résolution de Problèmes</li>
+        <li>Communication, Capacité d’Apprentissage</li>
+        <li>Collaboration en Équipe</li>
+      </ul>
+    </div>
+  </div>
+
   <div class="about-content">
     <p>Data Analyst passionné, j’ai fait de la richesse de mon parcours ma plus grande force.</p>
 
@@ -74,4 +124,6 @@ ul li {
       <li><strong>Expériences :</strong> Encadrement militaire et gestion de projets en tant que chef de chantier, développement de soft skills (communication, leadership, gestion du stress, pédagogie)</li>
     </ul>
   </div>
+</div>
+
 </div>
