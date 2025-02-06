@@ -4,7 +4,7 @@ title: "Mes Projets"
 permalink: /projects/
 ---
 
-# Mes Projets 
+ 
 
 Voici une selection parmi les projets que j'ai mené récemment :
 
@@ -12,7 +12,7 @@ Voici une selection parmi les projets que j'ai mené récemment :
 Aéroworld est une entreprise française qui opère dans l'industrie aéronautique depuis plus de 50 ans. 
 Elle souhaite tirer parti de sa richesse de données pour améliorer ses processus et innover dans l'industrie aéronautique et souhaite s'attacher les services d'un Chef de projet en analyse data sera pour répondre à ces enjeux et accompagner l’entreprise dans sa transformation digitale.
 
-##  [Créer et requêter une base de données immobilières](https://github.com/francoisvercellotti/base_de_donnees_immobiliere.git))
+##  [Créer et requêter une base de données immobilières](https://github.com/francoisvercellotti/base_de_donnees_immobiliere.git)
 Laplace Immo, un réseau national d’agences immobilières m'a confié la modification de la base de données permettant de collecter les transactions immobilières et foncières en France. Charge à moi d'utiliser ensuite cette base pour analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients.
 
 ##  [Tableau de bord pour l'identification des besoins en accès à l'eau potable](https://github.com/francoisvercellotti/tableau_bord_acces_eau_potable.git)
