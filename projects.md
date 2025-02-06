@@ -4,12 +4,7 @@ title: "Mes Projets"
 permalink: /projects/
 ---
 
-# Mes Projets
 
-Voici une liste de mes projets :
-
-
-## Mes Projets
 
 ### [Nom du projet 1](https://github.com/FrançoisVERCELLOTTI/nom-du-projet-1)
 Description du projet 1. Ce projet permet de faire XYZ.
