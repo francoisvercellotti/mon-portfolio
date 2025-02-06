@@ -41,10 +41,12 @@ permalink: /projects/
 
     <div class="project-card">
         <h3><a href="https://github.com/francoisvercellotti/projet13_portfolio.git">Créez votre portfolio de professionnel de la data</a></h3>
+         <img src="https://github.com/user-attachments/assets/ded242ea-f007-41cf-b18c-cebcfcc54796" alt="Projet Portfolio">
         <p>Aéroworld est une entreprise française qui opère dans l'industrie aéronautique depuis plus de 50 ans. 
         Elle souhaite tirer parti de sa richesse de données pour améliorer ses processus et innover dans l'industrie aéronautique. 
         Mon rôle a été d'accompagner cette transformation digitale en mettant en place un portfolio démontrant mes compétences en analyse de données.</p>
     </div>
+
 
     <div class="project-card">
         <h3><a href="https://github.com/francoisvercellotti/base_de_donnees_immobiliere.git">Créer et requêter une base de données immobilières</a></h3>
