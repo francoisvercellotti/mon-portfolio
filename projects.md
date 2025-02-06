@@ -9,7 +9,7 @@ permalink: /projects/
 Voici une selection parmi les projets que j'ai mené récemment :
 
 ##  [Créez votre portfolio de professionnel de la data](https://github.com/francoisvercellotti/projet13_portfolio.git)
-![Projet 2](https://github.com/user-attachments/assets/89301542-a6ac-4f55-bb0d-3ad340a2c0a3)
+
 
 Aéroworld est une entreprise française qui opère dans l'industrie aéronautique depuis plus de 50 ans. 
 Elle souhaite tirer parti de sa richesse de données pour améliorer ses processus et innover dans l'industrie aéronautique et souhaite s'attacher les services d'un Chef de projet en analyse data sera pour répondre à ces enjeux et accompagner l’entreprise dans sa transformation digitale.
@@ -36,13 +36,12 @@ L’objectif principal est de proposer une segmentation des pays en fonction de 
 Dans ce projet, l'objectif principal est d'analyser les ventes en ligne de la librairie en utilisant des outils de data analysis pour extraire des informations utiles et faire des recommandations stratégiques.
 
 ##  [Création d'un tableau de bord pour le suivi de projet et des performances](https://github.com/francoisvercellotti/reporting_powerbi_multinationale.git)
-![Projet 6]((https://github.com/user-attachments/assets/81369059-b40c-42fc-a0dd-23c2372a9989)
+![Projet 5](https://github.com/user-attachments/assets/81369059-b40c-42fc-a0dd-23c2372a9989)
 
 La cheffe de projet au sein du service Project Management Office de Sanitoral, une société internationale qui fabrique et commercialise des soins bucco-dentaires, fait ici appel à mes services pour développer un outil de data visualisation.
 L'objectif est de permettre à son service de suivre à la fois l'avancement des projets et les coûts, identifier les retards et contrôler les performances, afin que l’équipe puisse mener les actions adéquates.
 
 ## [Application de détection de faux billets](https://github.com/francoisvercellotti/application-detection-faux-billets.git)
-![Projet 7]((https://github.com/user-attachments/assets/81369059-b40c-42fc-a0dd-23c2372a9989)
 
 
 Dans ce projet, mon entreprise vient de décrocher un contrat avec l’Organisation nationale de lutte contre le faux-monnayage (ONCFM) dans le but de créer une application de détection de faux billets. Je joue donc ici le rôle d'un senior data analyst envoyé pour mener à bien cette mission.
