@@ -4,49 +4,96 @@ title: "Mes Projets"
 permalink: /projects/
 ---
 
- 
+ <style>
+.project-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
 
-Voici une selection parmi les projets que j'ai mené récemment :
+.project-card {
+    width: 48%;
+    background: #f8f8f8;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 10px 0;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
 
-##  [Créez votre portfolio de professionnel de la data](https://github.com/francoisvercellotti/projet13_portfolio.git)
+.project-card img {
+    width: 100%;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.project-card h3 {
+    margin-top: 0;
+}
+
+@media (max-width: 768px) {
+    .project-card {
+        width: 100%;
+    }
+}
+</style>
+
+<div class="project-container">
+
+    <div class="project-card">
+        <h3><a href="https://github.com/francoisvercellotti/projet13_portfolio.git">Créez votre portfolio de professionnel de la data</a></h3>
+        <p>Aéroworld est une entreprise française qui opère dans l'industrie aéronautique depuis plus de 50 ans. 
+        Elle souhaite tirer parti de sa richesse de données pour améliorer ses processus et innover dans l'industrie aéronautique. 
+        Mon rôle a été d'accompagner cette transformation digitale en mettant en place un portfolio démontrant mes compétences en analyse de données.</p>
+    </div>
+
+    <div class="project-card">
+        <h3><a href="https://github.com/francoisvercellotti/base_de_donnees_immobiliere.git">Créer et requêter une base de données immobilières</a></h3>
+        <img src="https://github.com/user-attachments/assets/05c9b225-9420-4d58-aff7-964f099039d0" alt="Projet Immobilier">
+        <p>Laplace Immo, un réseau national d’agences immobilières, m'a confié la modification de la base de données 
+        permettant de collecter les transactions immobilières et foncières en France. Mon objectif a été d’optimiser les 
+        requêtes SQL pour analyser le marché et fournir aux agences des insights pour améliorer leur accompagnement client.</p>
+    </div>
+
+    <div class="project-card">
+        <h3><a href="https://github.com/francoisvercellotti/tableau_bord_acces_eau_potable.git">Tableau de bord pour l'identification des besoins en accès à l'eau potable</a></h3>
+        <img src="https://github.com/user-attachments/assets/89301542-a6ac-4f55-bb0d-3ad340a2c0a3" alt="Projet Eau Potable">
+        <p>Dans le cadre de ma mission en tant que consultant data analyst pour l’ONG DWFA (Drinking Water For All), 
+        j'ai développé un tableau de bord interactif permettant d’identifier les pays ayant des difficultés d'accès à l’eau potable. 
+        L’objectif était de prioriser les efforts d’intervention et d’optimiser la répartition des ressources.</p>
+    </div>
+
+    <div class="project-card">
+        <h3><a href="https://github.com/francoisvercellotti/analyse_marche_developpement_international.git">Analyse de marché pour l'exportation de poulets biologiques</a></h3>
+        <img src="https://github.com/user-attachments/assets/6938eea5-d323-4d73-bef0-c592ac3dcee7" alt="Projet Exportation">
+        <p>Ce projet visait à segmenter les pays en fonction de données socio-économiques, politiques et environnementales 
+        afin d’identifier des clusters pertinents. Grâce à l’analyse des données et à des modèles de machine learning, 
+        j’ai pu recommander les pays les plus stratégiques pour une expansion internationale du marché des poulets biologiques.</p>
+    </div>
+
+    <div class="project-card">
+        <h3><a href="https://github.com/francoisvercellotti/analyse_ventes_e-commerce.git">Analyse des ventes d'un e-commerce</a></h3>
+        <img src="https://github.com/user-attachments/assets/ba340984-40f8-4c79-94de-d1440ec1b200" alt="Projet E-commerce">
+        <p>Dans ce projet, j’ai analysé les ventes en ligne d’une librairie en utilisant des outils de data analysis 
+        afin d’extraire des informations clés sur les tendances d’achat et d’optimiser la stratégie marketing. 
+        Grâce à des visualisations interactives et des modèles prédictifs, j’ai pu recommander des actions pour maximiser les revenus.</p>
+    </div>
+
+    <div class="project-card">
+        <h3><a href="https://github.com/francoisvercellotti/reporting_powerbi_multinationale.git">Création d'un tableau de bord pour le suivi de projet et des performances</a></h3>
+        <img src="https://github.com/user-attachments/assets/81369059-b40c-42fc-a0dd-23c2372a9989" alt="Projet Reporting">
+        <p>Sanitoral, une multinationale spécialisée dans les soins bucco-dentaires, avait besoin d’un outil permettant 
+        de suivre l’avancement de ses projets et d’évaluer les performances financières. 
+        J’ai développé un tableau de bord Power BI pour identifier les retards, contrôler les coûts et 
+        aider l’équipe Project Management Office à prendre des décisions éclairées.</p>
+    </div>
+
+    <div class="project-card">
+        <h3><a href="https://github.com/francoisvercellotti/application-detection-faux-billets.git">Application de détection de faux billets</a></h3>
+        <p>Mon entreprise a remporté un contrat avec l’Organisation nationale de lutte contre le faux-monnayage (ONCFM) 
+        pour développer une application de détection de faux billets. J’ai conçu un modèle d’apprentissage automatique 
+        basé sur des caractéristiques physiques des billets pour identifier les contrefaçons avec une précision optimale.</p>
+    </div>
+
+</div>
 
 
-Aéroworld est une entreprise française qui opère dans l'industrie aéronautique depuis plus de 50 ans. 
-Elle souhaite tirer parti de sa richesse de données pour améliorer ses processus et innover dans l'industrie aéronautique et souhaite s'attacher les services d'un Chef de projet en analyse data sera pour répondre à ces enjeux et accompagner l’entreprise dans sa transformation digitale.
-
-
-##  [Créer et requêter une base de données immobilières](https://github.com/francoisvercellotti/base_de_donnees_immobiliere.git)
-![Projet 2](https://github.com/user-attachments/assets/05c9b225-9420-4d58-aff7-964f099039d0)
-
-Laplace Immo, un réseau national d’agences immobilières m'a confié la modification de la base de données permettant de collecter les transactions immobilières et foncières en France. Charge à moi d'utiliser ensuite cette base pour analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients.
-
-
-##  [Tableau de bord pour l'identification des besoins en accès à l'eau potable](https://github.com/francoisvercellotti/tableau_bord_acces_eau_potable.git)
-![Projet 3](https://github.com/user-attachments/assets/89301542-a6ac-4f55-bb0d-3ad340a2c0a3)
-
-Dans le cadre de ma mission en tant que consultant data analyst pour l’ONG DWFA (Drinking Water For All), j'ai pour objectif de développer un tableau de bord permettant d'identifier les pays ayant des difficultés d'accès à l’eau potable et de prioriser les efforts d’intervention.
-
-
-##  [Analyse de marché pour l'exportation de poulets biologiques](https://github.com/francoisvercellotti/analyse_marche_developpement_international.git)
-![Projet 4](https://github.com/user-attachments/assets/6938eea5-d323-4d73-bef0-c592ac3dcee7)
-
-L’objectif principal est de proposer une segmentation des pays en fonction de données socio-économiques, politiques, et environnementales pour identifier des clusters pertinents. Cette segmentation permettra de recommander des pays prioritaires pour une expansion à l'international.
-
-
-##  [Analyse des ventes d'un e-commerce](https://github.com/francoisvercellotti/analyse_ventes_e-commerce.git)
-![Ca total moyenne mobile](https://github.com/user-attachments/assets/ba340984-40f8-4c79-94de-d1440ec1b200)
-
-
-Dans ce projet, l'objectif principal est d'analyser les ventes en ligne de la librairie en utilisant des outils de data analysis pour extraire des informations utiles et faire des recommandations stratégiques.
-
-
-##  [Création d'un tableau de bord pour le suivi de projet et des performances](https://github.com/francoisvercellotti/reporting_powerbi_multinationale.git)
-![Projet 5](https://github.com/user-attachments/assets/81369059-b40c-42fc-a0dd-23c2372a9989)
-
-La cheffe de projet au sein du service Project Management Office de Sanitoral, une société internationale qui fabrique et commercialise des soins bucco-dentaires, fait ici appel à mes services pour développer un outil de data visualisation.
-L'objectif est de permettre à son service de suivre à la fois l'avancement des projets et les coûts, identifier les retards et contrôler les performances, afin que l’équipe puisse mener les actions adéquates.
-
-
-## [Application de détection de faux billets](https://github.com/francoisvercellotti/application-detection-faux-billets.git)
-
-Dans ce projet, mon entreprise vient de décrocher un contrat avec l’Organisation nationale de lutte contre le faux-monnayage (ONCFM) dans le but de créer une application de détection de faux billets. Je joue donc ici le rôle d'un senior data analyst envoyé pour mener à bien cette mission.
