@@ -89,6 +89,7 @@ permalink: /projects/
 
     <div class="project-card">
         <h3><a href="https://github.com/francoisvercellotti/application-detection-faux-billets.git">Application de détection de faux billets</a></h3>
+        <img src="https://github.com/user-attachments/assets/bb8c563d-0deb-41cf-bd29-e41ea57271f0" alt="Projet Banknote Detection">
         <p>Mon entreprise a remporté un contrat avec l’Organisation nationale de lutte contre le faux-monnayage (ONCFM) 
         pour développer une application de détection de faux billets. J’ai conçu un modèle d’apprentissage automatique 
         basé sur des caractéristiques physiques des billets pour identifier les contrefaçons avec une précision optimale.</p>
