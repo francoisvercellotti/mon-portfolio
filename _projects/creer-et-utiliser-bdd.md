@@ -1,8 +1,4 @@
----
-layout: project
-title: Créer et Utiliser une Base de Données avec SQL
-permalink: /projects/creer-et-utiliser-bdd/
----
+
 
 # Mon Projet
 
