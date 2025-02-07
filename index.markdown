@@ -66,12 +66,10 @@ permalink: /
 
 /* Fond de la page */
 body {
-  background-image: url('https://example.com/graph-background.jpg'); /* Image de fond */
-  background-size: cover; /* Recouvre tout le fond */
-  background-position: center;
-  background-repeat: no-repeat;
-  color: #fff; /* Le texte sera plus lisible avec une couleur claire */
+  background-color: #f0f4f8; /* Bleu clair pour une ambiance apaisante */
+  color: #333; /* Couleur du texte */
 }
+
 </style>
 
 
