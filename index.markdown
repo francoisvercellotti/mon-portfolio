@@ -1,7 +1,9 @@
 ---
-layout: redirect
-title: "Accueil"
+layout: page
+title: "Mes Projets"
 permalink: /
-redirect_to: "/projects/"
 ---
+
+{% include projects.md %}
+
 
