@@ -6,8 +6,6 @@ permalink: /
 ---
 
 
-
-
 <style>
 /* Conteneur principal */
 .about-container {
