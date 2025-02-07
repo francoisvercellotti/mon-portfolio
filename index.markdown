@@ -59,7 +59,7 @@ permalink: /
 /* Contenu principal */
 .about-content {
   flex: 2; /* Prend 2/3 de la largeur */
-  max-width: 65%;
+  max-width: 55%;
   line-height: 1.6;
   text-align: justify;
 }
