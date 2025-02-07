@@ -5,39 +5,40 @@ permalink: /projects/
 ---
 
 <style>
-.project-container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Deux colonnes de taille égale */
-    gap: 20px; /* Espace entre les cartes */
-}
+  .project-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+      gap: 20px;
+  }
 
-.project-card {
-    background: #f8f8f8;
-    border-radius: 8px;
-    padding: 15px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-}
+  .project-card {
+      background: #f8f8f8;
+      border-radius: 8px;
+      padding: 15px;
+      box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
 
-.project-card img {
-    width: 100%;
-    border-radius: 5px;
-    margin-top: 10px;
-}
+  .project-card img {
+      width: 100%;
+      border-radius: 5px;
+      margin-top: 10px;
+  }
 
-.project-card h3 {
-    margin-top: 0;
-}
+  .project-card h3 {
+      margin-top: 0;
+  }
 
-@media (max-width: 768px) {
-    .project-container {
-        grid-template-columns: 1fr; /* Une seule colonne sur mobile */
-    }
-}
-body {
-  background-color: #f0f4f8; /* Bleu clair pour une ambiance apaisante */
-  color: #333; /* Couleur du texte */
-}
+  /* La règle media est optionnelle ici, puisque la propriété auto-fit rend la grille déjà responsive */
+  @media (max-width: 768px) {
+      .project-container {
+          grid-template-columns: 1fr;
+      }
+  }
 
+  body {
+    background-color: #f0f4f8;
+    color: #333;
+  }
 </style>
 
 <div class="project-container">
@@ -92,12 +93,11 @@ body {
     </div>
     
     <div class="project-card">
-            <h3><a href="https://github.com/francoisvercellotti/projet13_portfolio.git">Créez votre portfolio de professionnel de la data</a></h3>
-             <img src="https://github.com/user-attachments/assets/ded242ea-f007-41cf-b18c-cebcfcc54796" alt="Projet Portfolio">
-            <p>Aéroworld est une entreprise française qui opère dans l'industrie aéronautique depuis plus de 50 ans. 
-            Elle souhaite tirer parti de sa richesse de données pour améliorer ses processus et innover dans l'industrie aéronautique. 
-            Mon rôle a été d'accompagner cette transformation digitale en mettant en place un portfolio démontrant mes compétences en analyse de données.</p>
-        </div>
+        <h3><a href="https://github.com/francoisvercellotti/projet13_portfolio.git">Créez votre portfolio de professionnel de la data</a></h3>
+        <img src="https://github.com/user-attachments/assets/ded242ea-f007-41cf-b18c-cebcfcc54796" alt="Projet Portfolio">
+        <p>Aéroworld est une entreprise française qui opère dans l'industrie aéronautique depuis plus de 50 ans. 
+        Elle souhaite tirer parti de sa richesse de données pour améliorer ses processus et innover dans l'industrie aéronautique. 
+        Mon rôle a été d'accompagner cette transformation digitale en mettant en place un portfolio démontrant mes compétences en analyse de données.</p>
+    </div>
+
 </div>
-
-
