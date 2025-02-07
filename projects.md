@@ -7,7 +7,7 @@ permalink: /projects/
 <style>
   .project-container {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(375px, 1fr));
       gap: 20px;
   }
 
