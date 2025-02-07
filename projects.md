@@ -6,14 +6,12 @@ permalink: /projects/
 
 <style>
 .project-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    gap: 20px; /* Ajout d'un écart entre les cartes */
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Deux colonnes de taille égale */
+    gap: 20px; /* Espace entre les cartes */
 }
 
 .project-card {
-    width: calc(50% - 10px); /* Prendre 50% de la largeur moins un peu d'espace pour le gap */
     background: #f8f8f8;
     border-radius: 8px;
     padding: 15px;
@@ -31,22 +29,14 @@ permalink: /projects/
 }
 
 @media (max-width: 768px) {
-    .project-card {
-        width: 100%; /* En dessous de 768px, chaque projet occupe toute la largeur */
+    .project-container {
+        grid-template-columns: 1fr; /* Une seule colonne sur mobile */
     }
 }
+
 </style>
 
 <div class="project-container">
-
-    <div class="project-card">
-        <h3><a href="https://github.com/francoisvercellotti/projet13_portfolio.git">Créez votre portfolio de professionnel de la data</a></h3>
-         <img src="https://github.com/user-attachments/assets/ded242ea-f007-41cf-b18c-cebcfcc54796" alt="Projet Portfolio">
-        <p>Aéroworld est une entreprise française qui opère dans l'industrie aéronautique depuis plus de 50 ans. 
-        Elle souhaite tirer parti de sa richesse de données pour améliorer ses processus et innover dans l'industrie aéronautique. 
-        Mon rôle a été d'accompagner cette transformation digitale en mettant en place un portfolio démontrant mes compétences en analyse de données.</p>
-    </div>
-
 
     <div class="project-card">
         <h3><a href="https://github.com/francoisvercellotti/base_de_donnees_immobiliere.git">Créer et requêter une base de données immobilières</a></h3>
@@ -96,7 +86,14 @@ permalink: /projects/
         pour développer une application de détection de faux billets. J’ai conçu un modèle d’apprentissage automatique 
         basé sur des caractéristiques physiques des billets pour identifier les contrefaçons avec une précision optimale.</p>
     </div>
-
+    
+    <div class="project-card">
+            <h3><a href="https://github.com/francoisvercellotti/projet13_portfolio.git">Créez votre portfolio de professionnel de la data</a></h3>
+             <img src="https://github.com/user-attachments/assets/ded242ea-f007-41cf-b18c-cebcfcc54796" alt="Projet Portfolio">
+            <p>Aéroworld est une entreprise française qui opère dans l'industrie aéronautique depuis plus de 50 ans. 
+            Elle souhaite tirer parti de sa richesse de données pour améliorer ses processus et innover dans l'industrie aéronautique. 
+            Mon rôle a été d'accompagner cette transformation digitale en mettant en place un portfolio démontrant mes compétences en analyse de données.</p>
+        </div>
 </div>
 
 
