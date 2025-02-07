@@ -15,7 +15,7 @@ collections:
 # Navigation Links
 navigation:
   - title: "Mon Portfolio"
-   url: /
+    url: /
   - title: "A propos de moi"
     url: /about/
   - title: "Mes Projets"
