@@ -119,3 +119,7 @@ permalink: /about/
     <p>Mon objectif est clair : mettre ma curiosité insatiable et mes compétences au service de projets ambitieux en data science et data analysis, et continuer à progresser pour repousser encore mes propres limites.</p>
   </div>
 </div>
+
+    <p>Mon objectif est clair : mettre ma curiosité insatiable et mes compétences au service de projets ambitieux en data science et data analysis, et continuer à progresser pour repousser encore mes propres limites.</p>
+  </div>
+</div>
