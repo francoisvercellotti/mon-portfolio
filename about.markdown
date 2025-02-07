@@ -1,3 +1,8 @@
+
+---
+redirect_to: /
+---
+
 ---
 layout: default
 title: A propos de moi
