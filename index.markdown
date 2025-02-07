@@ -59,12 +59,21 @@ permalink: /
 /* Contenu principal */
 .about-content {
   flex: 2; /* Prend 2/3 de la largeur */
-  max-width: 55%;
+  max-width: 65%;
   line-height: 1.6;
   text-align: justify;
 }
 
+/* Fond de la page */
+body {
+  background-image: url('https://example.com/graph-background.jpg'); /* Image de fond */
+  background-size: cover; /* Recouvre tout le fond */
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #fff; /* Le texte sera plus lisible avec une couleur claire */
+}
 </style>
+
 
 <div class="about-container">
   <!-- Colonne de gauche -->
