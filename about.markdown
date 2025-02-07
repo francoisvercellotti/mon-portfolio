@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: page
 title: "A propos de moi"
-permalink: /
+permalink: /about/
 ---
+
 
 
 <style>
