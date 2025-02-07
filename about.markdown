@@ -73,7 +73,7 @@
     </div>
 
     <div class="sidebar-section">
-      <h3>Formation</h3>
+      <h3><strong>Formation</strong></h3>
       <ul>
         <li><strong>2024</strong> - Data Analyst (OpenClassrooms)</li>
         <li><strong>2000-2001</strong> - Licence Science de la matière (Physique Chimie)</li>
@@ -82,7 +82,7 @@
     </div>
 
     <div class="sidebar-section">
-      <h3>Expertise technique</h3>
+      <h3><strong>Expertise technique</strong></h3>
       <ul>
         <li>Python, Numpy, Pandas, SQL</li>
         <li>ScikitLearn, Git/GitHub, MLflow</li>
@@ -91,7 +91,7 @@
     </div>
 
     <div class="sidebar-section">
-      <h3>Soft Skills</h3>
+      <h3><strong>Soft Skills</strong></h3>
       <ul>
         <li>Adaptabilité, Autonomie</li>
         <li>Curiosité Intellectuelle, Résolution de Problèmes</li>
