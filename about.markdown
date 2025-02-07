@@ -1,14 +1,9 @@
 
 ---
-redirect_to: /
----
-
----
 layout: default
-title: A propos de moi
-permalink: /about/
+title: "A propos de moi"
+permalink: /
 ---
-
 
 
 
