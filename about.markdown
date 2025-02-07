@@ -72,34 +72,36 @@
       <img src="https://github.com/user-attachments/assets/b42a9ba1-0b07-4b02-90bd-283fc1a8c002" alt="Photo de profil" class="profile-photo">
     </div>
 
-    <div class="sidebar-section">
-      <h3><strong>Formation</strong></h3>
-      <ul>
-        <li><strong>2024</strong> - Data Analyst (OpenClassrooms)</li>
-        <li><strong>2000-2001</strong> - Licence Science de la matière (Physique Chimie)</li>
-        <li><strong>1998-2000</strong> - DEUG Science de la matière (Physique Chimie)</li>
-      </ul>
-    </div>
-
-    <div class="sidebar-section">
-      <h3><strong>Expertise technique</strong></h3>
-      <ul>
-        <li>Python, Numpy, Pandas, SQL</li>
-        <li>ScikitLearn, Git/GitHub, MLflow</li>
-        <li>Docker, PowerBI, Streamlit</li>
-      </ul>
-    </div>
-
-    <div class="sidebar-section">
-      <h3><strong>Soft Skills</strong></h3>
-      <ul>
-        <li>Adaptabilité, Autonomie</li>
-        <li>Curiosité Intellectuelle, Résolution de Problèmes</li>
-        <li>Communication, Capacité d’Apprentissage</li>
-        <li>Collaboration en Équipe</li>
-      </ul>
-    </div>
+  <div class="sidebar">
+  <div class="sidebar-section">
+    <h3><strong>Formation</strong></h3>
+    <ul>
+      <li><strong>2024</strong> - Data Analyst (OpenClassrooms)</li>
+      <li><strong>2000-2001</strong> - Licence Science de la matière (Physique Chimie)</li>
+      <li><strong>1998-2000</strong> - DEUG Science de la matière (Physique Chimie)</li>
+    </ul>
   </div>
+
+  <div class="sidebar-section">
+    <h3><strong>Expertise technique</strong></h3>
+    <ul>
+      <li>Python, Numpy, Pandas, SQL</li>
+      <li>ScikitLearn, Git/GitHub, MLflow</li>
+      <li>Docker, PowerBI, Streamlit</li>
+    </ul>
+  </div>
+
+  <div class="sidebar-section">
+    <h3><strong>Soft Skills</strong></h3>
+    <ul>
+      <li>Adaptabilité, Autonomie</li>
+      <li>Curiosité Intellectuelle, Résolution de Problèmes</li>
+      <li>Communication, Capacité d’Apprentissage</li>
+      <li>Collaboration en Équipe</li>
+    </ul>
+  </div>
+</div>
+
 
   <!-- Contenu principal -->
   <div class="about-content">
