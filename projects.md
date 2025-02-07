@@ -33,6 +33,10 @@ permalink: /projects/
         grid-template-columns: 1fr; /* Une seule colonne sur mobile */
     }
 }
+body {
+  background-color: #f0f4f8; /* Bleu clair pour une ambiance apaisante */
+  color: #333; /* Couleur du texte */
+}
 
 </style>
 
