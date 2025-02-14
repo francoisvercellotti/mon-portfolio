@@ -1,0 +1,96 @@
+---
+# Ce front-matter est nécessaire pour que Jekyll compile ce fichier.
+---
+
+/* Styles pour le bandeau */
+.site-header {
+  background: linear-gradient(135deg, #2c3e50, #4ca1af);
+  padding: 20px 0;
+  text-align: center;
+}
+
+/* Photo de profil dans le bandeau */
+.photo-container {
+  margin-bottom: 10px; /* Espacement entre la photo et le titre */
+}
+
+.profile-photo {
+  width: 120px; /* Taille réduite pour s'adapter au header */
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #fff;
+}
+
+.site-title {
+  font-size: 2.5em;
+  color: #fff;
+  margin: 0;
+}
+
+.site-subtitle {
+  font-size: 1.2em;
+  color: #f1f1f1;
+  margin: 0;
+  padding-bottom: 10px;
+}
+/* Mise en page du header */
+.site-header {
+  background-color: #f8f9fa;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+/* Conteneur principal du header */
+.header-container {
+  display: flex;
+  align-items: center;
+  width: 80%;
+  max-width: 1200px;
+}
+
+/* Style de la photo */
+.photo-container {
+  flex-shrink: 0; /* Empêche la photo de rétrécir */
+  margin-right: 20px;
+}
+
+.profile-photo {
+  width: 120px; /* Ajuste la taille selon besoin */
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* Style du texte du header */
+.header-text {
+  flex-grow: 1; /* Permet au texte de s'étirer */
+  text-align: center;
+}
+
+.site-title {
+  font-size: 2.5em; /* Plus grand */
+  margin: 0;
+}
+
+.site-subtitle {
+  font-size: 2em; /* Plus grand */
+  color: #181717;
+  margin: 5px 0;
+}
+
+/* Style pour la navigation */
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}

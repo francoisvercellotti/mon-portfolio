@@ -8,14 +8,16 @@ theme: minima
 plugins:
   - jekyll-feed
 
+sass:
+  style: compressed
+
+
 collections:
   projects:
     output: true  # Cela permet à chaque projet d'être accessible via son URL
 
 # Navigation Links
 navigation:
-  - title: "François Vercellotti"
-    url: /
   - title: "A propos de moi"
     url: /about/
   - title: "Mes Projets"

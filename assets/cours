@@ -1,0 +1,29 @@
+import pandas as pd
+import numpy as np
+
+# Convertir les colonnes en types compatibles avec Arrow
+input_data_typed['vefa'] = input_data_typed['vefa'].astype(np.int64)
+input_data_typed['surface_habitable'] = input_data_typed['surface_habitable'].astype(np.int64)
+input_data_typed['mois_transaction'] = input_data_typed['mois_transaction'].astype(np.int64)
+input_data_typed['annee_transaction'] = input_data_typed['annee_transaction'].astype(np.int64)
+input_data_typed['nb_transactions_mois_precedent'] = input_data_typed['nb_transactions_mois_precedent'].astype(np.int64)
+input_data_typed['ville_demandee'] = input_data_typed['ville_demandee'].astype(np.int64)
+# Convertir les autres colonnes si nécessaire...
+
+try:
+    predictions = model.predict(input_data_typed)
+    st.session_state.prediction = predictions[0]
+    st.session_state.current_params = {
+        'surface': surface_habitable,
+        'type': type_batiment_selection,
+        'vefa': vefa,
+        'region': st.session_state.region,
+        'prix_m2': prix_m2_moyen_mois_precedent,
+        'ville_demandee': ville_demandee,
+        'transactions': nb_transactions_mois_precedent,
+        'mois': mois_transaction,
+        'annee': annee_transaction
+    }
+
+    # Utiliser input_data pour la visualisation SHAP
+    add_shap_visualization(model, input_data_typed, X_train)
