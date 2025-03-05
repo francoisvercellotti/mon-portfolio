@@ -112,7 +112,7 @@ body {
 
     <div class="project-card">
     <h3><a href="https://github.com/francoisvercellotti/instacart-analysis-shiny.git">Tableau de Bord d'Analyse de Panier Instacart</a></h3>
-    <img src="{{ 'instacart_analysis/assets/screencast_appli-gif.gif' | relative_url }}" alt="Démonstration Tableau de Bord Instacart">
+    <img src="{{ '/instacart_analysis/assets/screencast_appli-gif.gif' | relative_url }}" alt="Démonstration Tableau de Bord Instacart">
     <p>Dans ce projet personnel, j'ai développé un tableau de bord d'analyse des données de panier d'Instacart, un service de livraison de courses en ligne. Cette application permet d'explorer les comportements d'achat des clients, leurs préférences produits et leurs habitudes de commande à travers des visualisations interactives.
     Ce projet met en évidence ma maîtrise de l'optimisation des bases de données, de l'analyse de données et du développement d'applications web, en combinant des technologies comme Python, SQLAlchemy, PostgreSQL et Shiny.</p>
     </div>
