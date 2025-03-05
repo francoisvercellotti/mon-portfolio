@@ -111,6 +111,13 @@ body {
     </div>
 
     <div class="project-card">
+    <h3><a href="https://github.com/francoisvercellotti/instacart-analysis-shiny.git">Tableau de Bord d'Analyse de Panier Instacart</a></h3>
+    <img src="{{ '/assets/screencast_appli-gif.gif' | relative_url }}" alt="Démonstration Tableau de Bord Instacart">
+    <p>Dans ce projet personnel, j'ai développé un tableau de bord d'analyse des données de panier d'Instacart, un service de livraison de courses en ligne. Cette application permet d'explorer les comportements d'achat des clients, leurs préférences produits et leurs habitudes de commande à travers des visualisations interactives.
+    Ce projet met en évidence ma maîtrise de l'optimisation des bases de données, de l'analyse de données et du développement d'applications web, en combinant des technologies comme Python, SQLAlchemy, PostgreSQL et Shiny.</p>
+    </div>
+
+    <div class="project-card">
         <h3><a href="https://github.com/francoisvercellotti/base_de_donnees_immobiliere.git">Créer et requêter une base de données immobilières</a></h3>
         <img src="https://github.com/user-attachments/assets/05c9b225-9420-4d58-aff7-964f099039d0" alt="Projet Immobilier">
         <p>Laplace Immo, un réseau national d'agences immobilières, m'a confié la modification de la base de données
