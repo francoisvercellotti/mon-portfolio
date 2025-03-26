@@ -103,7 +103,14 @@ body {
 </head>
 <body>
 <div class="project-container">
-    <div class="project-card">
+    
+  <div class="project-card">
+    <h3><a href="https://github.com/francoisvercellotti/Ecommerce_bresilien_analysis.git">Tableau de Bord d'Analyse du E-commerce Olist</a></h3>
+    <img src="{{ '/assets/screencast_olist.gif' | relative_url }}" alt="Démonstration Tableau de Bord olist">
+    <p>Ce projet est une solution complète d'ingénierie de données et d'intelligence commerciale pour analyser Olist, une plateforme e-commerce brésilienne. En exploitant une modélisation de données avancée, des scripts Python et une visualisation interactive, le projet transforme des données brutes de commerce électronique en informations exploitables.</p>
+    </div>
+  
+  <div class="project-card">
         <h3><a href="https://github.com/francoisvercellotti/prediction_donnees_immobilieres.git">Application de prediction de valeurs immobilières</a></h3>
         <img src="{{ '/assets/demo.gif' | relative_url }}" alt="application prédiction">
         <p>Dans ce projet personnel j'ai construit une application d'estimation immobilière basée sur le machine learning, développée pour aider les agents immobiliers à obtenir rapidement des estimations précises des biens, avec des explications détaillées des prédictions.
