@@ -106,7 +106,7 @@ body {
     
   <div class="project-card">
     <h3><a href="https://github.com/francoisvercellotti/Ecommerce_bresilien_analysis.git">Tableau de Bord d'Analyse du E-commerce Olist</a></h3>
-    <img src="{{ '/assets/screencast_olist.gif' | relative_url }}" alt="Démonstration Tableau de Bord olist">
+    <img src="{{ '/assets/screencast.gif' | relative_url }}" alt="Démonstration Tableau de Bord olist">
     <p>Ce projet est une solution complète d'ingénierie de données et d'intelligence commerciale pour analyser Olist, une plateforme e-commerce brésilienne. En exploitant une modélisation de données avancée, des scripts Python et une visualisation interactive, le projet transforme des données brutes de commerce électronique en informations exploitables.</p>
     </div>
   
