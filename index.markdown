@@ -155,7 +155,7 @@ body {
   <p><strong>Ce que j’apporte :</strong></p>
   <p>Conception & automatisation de pipelines ELT/ETL (GCP, Python, Docker) pour intégrer, nettoyer et historiser vos données à grande échelle.</p>
   <p>Modélisation & optimisation de bases de données (PostgreSQL, SQLAlchemy) garantissant fiabilité, scalabilité et performance.</p>
-  <p>Visualisation & reporting interactif (Power BI, Shiny) pour créer des tableaux de bord clairs et actionnables.</p>
+  <p>Visualisation & reporting interactif (Power BI, Streamlit, Shiny) pour créer des tableaux de bord clairs et actionnables.</p>
   <p>Déploiement de solutions ML en production (MLOps) : de la préparation des données à l’explicabilité des modèles, en passant par l’intégration continue.</p>
   <p>Collaboration agile avec les équipes métier pour définir les KPIs, cadrer les besoins et assurer une montée en compétence collective.</p>
 
