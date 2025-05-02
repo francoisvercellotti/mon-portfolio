@@ -157,7 +157,7 @@ body {
     </div>
 
     <div class="project-card">
-        <h3><a href="https://github.com/francoisvercellotti/reporting_powerbi_multinationale.git">Création d'un tableau de bord pour le suivi de projet et des performances</a></h3>
+        <h3><a href="https://github.com/francoisvercellotti/reporting_powerbi_multinationale.git">Création d'un Dashboard de suivi de projet et des performances</a></h3>
         <img src="https://github.com/user-attachments/assets/81369059-b40c-42fc-a0dd-23c2372a9989" alt="Projet Reporting">
         <p>Sanitoral, une multinationale spécialisée dans les soins bucco-dentaires, avait besoin d'un outil permettant
         de suivre l'avancement de ses projets et d'évaluer les performances financières.
