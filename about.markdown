@@ -128,12 +128,14 @@ body {
     <div class="sidebar-section">
       <h3><strong>Expertise technique</strong></h3>
       <ul>
-        <li>Python, Numpy, Pandas, SQL</li>
-        <li>ScikitLearn, Git/GitHub, MLflow</li>
-        <li>Docker, PowerBI, Streamlit</li>
+        <li><strong>Programmation & traitement des données :</strong> Python, NumPy, Pandas, SQL</li>
+        <li><strong>Machine Learning & MLOps :</strong> Scikit‑Learn, MLflow</li>
+        <li><strong>Data Engineering :</strong> GCP (BigQuery, Dataflow), Docker</li>
+        <li><strong>Visualisation & BI :</strong> Power BI, Streamlit, Shiny</li>
+        <li><strong>Versioning & DevOps :</strong> Git/GitHub, CI/CD</li>
       </ul>
-    </div>
-
+    <div class="sidebar-section">
+    
     <div class="sidebar-section">
       <h3><strong>Soft Skills</strong></h3>
       <ul>
