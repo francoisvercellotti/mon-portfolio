@@ -118,7 +118,7 @@ body {
     </div>
 
  <div class="project-card">
-        <h3><a href="https://github.com/francoisvercellotti/bigquery_taxi_trips_analytics.git">Analyse de millions de trajets de taxis via ELT avec GCP et visualisation PowerBI</a></h3>
+        <h3><a href="https://github.com/francoisvercellotti/bigquery_taxi_trips_analytics.git">Pipeline analytique GCP & Power BI : impact de la météo sur les taxis à NYC</a></h3>
       <img src="https://raw.githubusercontent.com/francoisvercellotti/mon-portfolio/bbb609dd4acd9660da71728c214866784fc6c315/assets/screencast_dashboard.gif" alt="Projet GCP/PowerBI analytics">
 
         <p>Dans ce projet, j'ai analysé plus de 100 millions de courses de taxi à New York pour étudier l’impact des conditions météorologiques sur la mobilité urbaine. J'ai conçu un pipeline ELT sur GCP et des dashboards Power BI pour transformer ces données en insights exploitables. Ce projet illustre ma maîtrise des workflows data et de la valorisation des données à grande échelle.</p>
