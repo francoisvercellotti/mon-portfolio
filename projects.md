@@ -117,6 +117,13 @@ body {
         Ce projet démontre ma capacité à développer une solution ML complète, de l'analyse des données au déploiement, en respectant les meilleures pratiques de l'industrie.</p>
     </div>
 
+ <div class="project-card">
+        <h3><a href="https://github.com/francoisvercellotti/bigquery_taxi_trips_analytics.git">Analyse de millions de trajets de taxis via ELT avec GCP et visualisation PowerBI</a></h3>
+      <img src="https://raw.githubusercontent.com/francoisvercellotti/mon-portfolio/bbb609dd4acd9660da71728c214866784fc6c315/assets/screencast_dashboard.gif" alt="Projet GCP/PowerBI analytics">
+
+        <p>Dans ce projet, j'ai analysé plus de 100 millions de courses de taxi à New York pour étudier l’impact des conditions météorologiques sur la mobilité urbaine. J'ai conçu un pipeline ELT sur GCP et des dashboards Power BI pour transformer ces données en insights exploitables. Ce projet illustre ma maîtrise des workflows data et de la valorisation des données à grande échelle.</p>
+    </div>
+
     <div class="project-card">
     <h3><a href="https://github.com/francoisvercellotti/instacart-analysis-shiny.git">Tableau de Bord d'Analyse de Panier Instacart</a></h3>
     <img src="{{ '/assets/screencast_appli-gif.gif' | relative_url }}" alt="Démonstration Tableau de Bord Instacart">
@@ -124,13 +131,6 @@ body {
     Ce projet met en évidence ma maîtrise de l'optimisation des bases de données, de l'analyse de données et du développement d'applications web, en combinant des technologies comme Python, SQLAlchemy, PostgreSQL et Shiny.</p>
     </div>
 
-    <div class="project-card">
-        <h3><a href="https://github.com/francoisvercellotti/base_de_donnees_immobiliere.git">Créer et requêter une base de données immobilières</a></h3>
-        <img src="https://github.com/user-attachments/assets/05c9b225-9420-4d58-aff7-964f099039d0" alt="Projet Immobilier">
-        <p>Laplace Immo, un réseau national d'agences immobilières, m'a confié la modification de la base de données
-        permettant de collecter les transactions immobilières et foncières en France. Mon objectif a été d'optimiser les
-        requêtes SQL pour analyser le marché et fournir aux agences des insights pour améliorer leur accompagnement client.</p>
-    </div>
 
     <div class="project-card">
         <h3><a href="https://github.com/francoisvercellotti/tableau_bord_acces_eau_potable.git">Tableau de bord pour l'identification des besoins en accès à l'eau potable</a></h3>
@@ -165,12 +165,14 @@ body {
         aider l'équipe Project Management Office à prendre des décisions éclairées.</p>
     </div>
 
-    <div class="project-card">
-        <h3><a href="https://github.com/francoisvercellotti/bigquery_taxi_trips_analytics.git">Analyse de millions de trajets de taxis via ELT avec GCP et visualisation PowerBI</a></h3>
-      <img src="https://raw.githubusercontent.com/francoisvercellotti/mon-portfolio/bbb609dd4acd9660da71728c214866784fc6c315/assets/screencast_dashboard.gif" alt="Projet GCP/PowerBI analytics">
-
-        <p>Ce projet analyse la corrélation entre les conditions météorologiques et plus de 100 millions de courses de taxi à New York. En exploitant un pipeline ELT sur GCP et une couche de visualisation Power BI, nous transformons des données brutes de trajets et de météo en insights actionnables pour comprendre les patterns de mobilité urbaine en fonction des conditions climatiques.</p>
+ <div class="project-card">
+        <h3><a href="https://github.com/francoisvercellotti/base_de_donnees_immobiliere.git">Créer et requêter une base de données immobilières</a></h3>
+        <img src="https://github.com/user-attachments/assets/05c9b225-9420-4d58-aff7-964f099039d0" alt="Projet Immobilier">
+        <p>Laplace Immo, un réseau national d'agences immobilières, m'a confié la modification de la base de données
+        permettant de collecter les transactions immobilières et foncières en France. Mon objectif a été d'optimiser les
+        requêtes SQL pour analyser le marché et fournir aux agences des insights pour améliorer leur accompagnement client.</p>
     </div>
+   
 </div>
 </body>
 </html>
