@@ -167,7 +167,7 @@ body {
 
     <div class="project-card">
         <h3><a href="https://github.com/francoisvercellotti/bigquery_taxi_trips_analytics.git">Analyse de millions de trajets de taxis via ELT avec GCP et visualisation PowerBI</a></h3>
-        <img src="https://github.com/user-attachments/assets/bb8c563d-0deb-41cf-bd29-e41ea57271f0" alt="Projet GCP/PowerBI analytocs">
+        <img src="https://github.com/francoisvercellotti/mon-portfolio/blob/bbb609dd4acd9660da71728c214866784fc6c315/assets/screencast_dashboard.gif" alt="Projet GCP/PowerBI analytics">
         <p>Ce projet analyse la corrélation entre les conditions météorologiques et plus de 100 millions de courses de taxi à New York. En exploitant un pipeline ELT sur GCP et une couche de visualisation Power BI, nous transformons des données brutes de trajets et de météo en insights actionnables pour comprendre les patterns de mobilité urbaine en fonction des conditions climatiques.</p>
     </div>
 </div>
