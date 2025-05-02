@@ -36,6 +36,7 @@ permalink: /
       margin-top: 45px;
       border-right: 2px solid rgba(18, 17, 17, 0.1);
     }
+
     .sidebar-section {
       margin-bottom: 30px;
       padding: 15px;
@@ -94,24 +95,6 @@ permalink: /
       padding: 5px 10px;
       margin: 5px -10px;
     }
-
-    /* Boutons de navigation */
-    .nav-buttons {
-      display: flex;
-      gap: 20px;
-      margin-top: 30px;
-    }
-    .nav-buttons a {
-      text-decoration: none;
-      background: #2c5282;
-      color: #fff;
-      padding: 10px 20px;
-      border-radius: 8px;
-      transition: background 0.2s ease;
-    }
-    .nav-buttons a:hover {
-      background: #1a3a60;
-    }
   </style>
 </head>
 <body>
@@ -155,26 +138,23 @@ permalink: /
 
   <!-- Contenu principal -->
   <div class="about-content">
-    <h1>Bienvenue sur mon portfolio</h1>
+    <h1>Bonjour,</h1>
 
-    <p>Je suis <strong>Data Analyst orienté résultats</strong>, spécialisé dans la conception de pipelines ELT, la modélisation de données et la production de dashboards interactifs. Mon objectif ? Transformer vos volumes de données en leviers stratégiques tangibles pour votre entreprise.</p>
+    <p><strong>Data Analyst orienté résultats</strong>, j’allie une solide formation scientifique à une expertise technique approfondie pour accompagner la transformation data‑driven de votre entreprise. Toujours curieux et pragmatique, je mets mon savoir‑faire au service de vos enjeux métiers.</p>
 
-    <p>Explorez mes réalisations pour découvrir comment j’ai mis en œuvre :</p>
-    <ul>
-      <li>Pipelines ELT/ETL robustes (GCP, Python, Docker)</li>
-      <li>Modèles de base de données performants (PostgreSQL, SQLAlchemy)</li>
-      <li>Dashboards BI actionnables (Power BI, Streamlit, Shiny)</li>
-      <li>Solutions ML en production (MLOps, explicabilité)</li>
-    </ul>
+    <p><strong>Ce que j’apporte :</strong></p>
+    <p>Conception & automatisation de pipelines ELT/ETL (GCP, Python, Docker) pour intégrer, nettoyer et historiser vos données à grande échelle.</p>
+    <p>Modélisation & optimisation de bases de données (PostgreSQL, SQLAlchemy) garantissant fiabilité, scalabilité et performance.</p>
+    <p>Visualisation & reporting interactif (Power BI, Streamlit, Shiny) pour créer des dashboards clairs et actionnables.</p>
+    <p>Déploiement de solutions ML en production (MLOps) : de la préparation des données à l’explicabilité des modèles, en passant par l’intégration continue.</p>
+    <p>Collaboration agile avec les équipes métier pour définir les KPIs, cadrer les besoins et assurer une montée en compétence collective.</p>
 
-    <p>Je suis actuellement à la recherche d’un <strong>poste en CDI</strong> au sein d’une équipe dynamique où je pourrai apporter mon expertise et contribuer à des projets data ambitieux.</p>
+    <p><strong>Pourquoi travailler ensemble ?</strong></p>
+    <p>Je transforme vos problématiques business en solutions data concrètes, valorise chaque donnée pour révéler de nouvelles opportunités, optimiser vos process et soutenir vos décisions stratégiques. Rigoureux, force de proposition et à l’écoute, je suis prêt à relever vos défis data, de la preuve de concept au déploiement opérationnel.</p>
 
-    <div class="nav-buttons">
-      <a href="/projects/">Voir mes projets</a>
-      <a href="/about/">En savoir plus sur moi</a>
-    </div>
+    <p>▶︎ Je suis à la recherche d’un <strong>poste en CDI</strong> au sein d’une équipe ambitieuse. Contactez‑moi pour échanger sur vos besoins et co‑construire la solution data qui fera la différence.</p>
   </div>
-
+  
 </div>
 
 </body>
