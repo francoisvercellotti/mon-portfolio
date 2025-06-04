@@ -159,7 +159,7 @@ permalink: /
 
     <p>📩 Contactez-moi pour échanger sur vos projets ou demander un diagnostic gratuit.</p>
     <p>Contactez-moi par email : <a href="mailto:francoisvercellotti@gmail.com">francoisvercellotti@gmail.com</a></p>
-    <p>Ou retrouvons-nous sur LinkedIn : <a href="https://www.linkedin.com/in/francoisvercellotti" target="_blank">François Vercellotti sur LinkedIn</a></p>
+    <p>Ou retrouvons-nous sur LinkedIn : <a href="https://www.linkedin.com/in/françoisvercellotti" target="_blank">François Vercellotti sur LinkedIn</a></p>
   </div>
   
 </div>
