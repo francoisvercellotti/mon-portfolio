@@ -7,6 +7,7 @@ permalink: /about/
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
       background: linear-gradient(135deg, #cccccc, rgb(155, 231, 243));
@@ -95,6 +96,76 @@ permalink: /about/
       padding: 5px 10px;
       margin: 5px -10px;
     }
+
+    /* RESPONSIVE DESIGN */
+    @media (max-width: 768px) {
+      .about-container {
+        flex-direction: column;
+        margin: 10px;
+        padding: 20px;
+        gap: 20px;
+      }
+      
+      .sidebar {
+        max-width: 100%;
+        padding-right: 0;
+        margin-top: 0;
+        border-right: none;
+        border-bottom: 2px solid rgba(18, 17, 17, 0.1);
+        padding-bottom: 20px;
+      }
+      
+      .about-content {
+        max-width: 100%;
+        text-align: left;
+      }
+      
+      .about-content h1 {
+        font-size: 1.8em;
+        text-align: center;
+      }
+      
+      .sidebar-section {
+        margin-bottom: 20px;
+        padding: 12px;
+      }
+      
+      .sidebar-section h3 {
+        font-size: 1.2em;
+      }
+      
+      .sidebar-section ul li {
+        font-size: 1em;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .about-container {
+        margin: 5px;
+        padding: 15px;
+      }
+      
+      .about-content h1 {
+        font-size: 1.6em;
+      }
+      
+      .sidebar-section {
+        padding: 10px;
+      }
+      
+      .sidebar-section h3 {
+        font-size: 1.1em;
+      }
+      
+      .sidebar-section ul li {
+        font-size: 0.95em;
+        padding: 3px 8px;
+      }
+      
+      .about-content p {
+        font-size: 0.95em;
+      }
+    }
   </style>
 </head>
 <body>
@@ -118,7 +189,7 @@ permalink: /about/
       <ul>
         <li><strong>Programmation & traitement de données :</strong> Python (Pandas, Seaborn, Matplotlib), SQL</li>
         <li><strong>Data Engineering :</strong> BigQuery, automatisation de flux via Python et SQL</li>
-        <li><strong>Visualisation & BI :</strong> Power BI</li>
+        <li><strong>Visualisation & BI :</strong> Power BI</li>
         <li><strong>Versioning :</strong> Git/GitHub</li>
       </ul>
     </div>
@@ -127,9 +198,9 @@ permalink: /about/
       <h3><strong>Soft Skills</strong></h3>
       <ul>
         <li>Adaptabilité & autonomie</li>
-        <li>Curiosité & esprit d’analyse</li>
+        <li>Curiosité & esprit d'analyse</li>
         <li>Vulgarisation technique & pédagogie</li>
-        <li>Esprit d’équipe & collaboration</li>
+        <li>Esprit d'équipe & collaboration</li>
       </ul>
     </div>
 
@@ -139,14 +210,14 @@ permalink: /about/
   <div class="about-content">
     <h1>Bonjour et bienvenue,</h1>
 
-    <p><strong>Data Analyst Freelance spécialisé dans l’aide à la décision et le reporting automatisé pour PME et startups.</strong></p>
+    <p><strong>Data Analyst Freelance spécialisé dans l'aide à la décision et le reporting automatisé pour PME et startups.</strong></p>
 
-    <p>J’aide les entreprises à structurer et fiabiliser leurs données, automatiser leurs reporting sous Power BI et SQL, et concevoir des tableaux de bord interactifs et sur-mesure pour piloter efficacement leur activité.</p>
+    <p>J'aide les entreprises à structurer et fiabiliser leurs données, automatiser leurs reporting sous Power BI et SQL, et concevoir des tableaux de bord interactifs et sur-mesure pour piloter efficacement leur activité.</p>
 
     <p><strong>Ce que je propose :</strong></p>
     <p>✅ Structuration et nettoyage de vos données multi-sources (ERP, CRM, Excel)</p>
     <p>✅ Automatisation de reporting et tableaux de bord sous Power BI</p>
-    <p>✅ Réalisation d’analyses statistiques et prévisionnelles via Python (Pandas, Seaborn)</p>
+    <p>✅ Réalisation d'analyses statistiques et prévisionnelles via Python (Pandas, Seaborn)</p>
     <p>✅ Définition des KPIs et accompagnement des équipes métiers</p>
 
     <p><strong>Mes réalisations :</strong></p>
@@ -155,7 +226,7 @@ permalink: /about/
     <p>💼 Tableaux de bord financiers et commerciaux pour PME</p>
 
     <p><strong>Pourquoi collaborer ensemble ?</strong></p>
-    <p>Je transforme vos problématiques business en solutions data concrètes et lisibles, pour vous aider à piloter votre activité et optimiser vos process. Accessible, rigoureux et à l’écoute, je conçois des outils qui servent réellement à décider et à agir.</p>
+    <p>Je transforme vos problématiques business en solutions data concrètes et lisibles, pour vous aider à piloter votre activité et optimiser vos process. Accessible, rigoureux et à l'écoute, je conçois des outils qui servent réellement à décider et à agir.</p>
 
     <p>📩 Contactez-moi pour échanger sur vos projets ou demander un diagnostic gratuit.</p>
     <p>Contactez-moi par email : <a href="mailto:francoisvercellotti@gmail.com">francoisvercellotti@gmail.com</a></p>
@@ -164,4 +235,4 @@ permalink: /about/
   
 </div>
 </body>
-</html>ml>
+</html>
