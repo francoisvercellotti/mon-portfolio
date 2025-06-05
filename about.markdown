@@ -113,11 +113,13 @@ permalink: /about/
         border-right: none;
         border-bottom: 2px solid rgba(18, 17, 17, 0.1);
         padding-bottom: 20px;
+        order: 2; /* Place la sidebar après le contenu principal */
       }
       
       .about-content {
         max-width: 100%;
         text-align: left;
+        order: 1; /* Place le contenu principal en premier */
       }
       
       .about-content h1 {
