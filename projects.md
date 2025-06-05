@@ -113,9 +113,11 @@ body {
   <div class="project-card">
         <h3><a href="https://github.com/francoisvercellotti/prediction_donnees_immobilieres.git">Application de prediction de valeurs immobilières</a></h3>
         <img src="{{ '/assets/demo.gif' | relative_url }}" alt="application prédiction">
-        <p>Dans ce projet personnel j'ai construit une application d'estimation immobilière basée sur le machine learning, développée pour aider les agents immobiliers à obtenir rapidement des estimations précises des biens, avec des explications détaillées des prédictions.
-        Ce projet démontre ma capacité à développer une solution ML complète, de l'analyse des données au déploiement, en respectant les meilleures pratiques de l'industrie.</p>
-    </div>
+          <p>J’ai développé une application d’aide à l’estimation immobilière à destination des agences et investisseurs. Basée sur un modèle de machine learning entraîné sur des données transactionnelles, l’application prédit le prix des biens selon leurs caractéristiques et localisations.  
+    L’outil intègre également des visualisations explicatives pour justifier chaque estimation, améliorant la transparence et la confiance des utilisateurs.</p>
+    <p><strong>Outils :</strong> Python (scikit-learn, Streamlit), Power BI</p>
+    <p><strong>Bénéfice client :</strong> gain de temps pour les estimations, meilleur argumentaire commercial et anticipation des évolutions de prix.</p>
+  </div>
 
  <div class="project-card">
         <h3><a href="https://github.com/francoisvercellotti/bigquery_taxi_trips_analytics.git">Pipeline analytique GCP & Power BI : impact météo sur les taxis à NYC</a></h3>
