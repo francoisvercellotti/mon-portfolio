@@ -116,11 +116,10 @@ permalink: /about/
     <div class="sidebar-section">
       <h3><strong>Expertise technique</strong></h3>
       <ul>
-        <li><strong>Programmation & traitement des données :</strong> Python, NumPy, Pandas, SQL</li>
-        <li><strong>Machine Learning & MLOps :</strong> Scikit‑Learn, MLflow</li>
-        <li><strong>Data Engineering :</strong> GCP (BigQuery, Dataflow), Docker</li>
-        <li><strong>Visualisation & BI :</strong> Power BI, Streamlit, Shiny</li>
-        <li><strong>Versioning & DevOps :</strong> Git/GitHub, CI/CD</li>
+        <li><strong>Programmation & traitement de données :</strong> Python (Pandas, Seaborn, Matplotlib), SQL</li>
+        <li><strong>Data Engineering :</strong> BigQuery, automatisation de flux via Python et SQL</li>
+        <li><strong>Visualisation & BI :</strong> Power BI</li>
+        <li><strong>Versioning :</strong> Git/GitHub</li>
       </ul>
     </div>
 
@@ -128,8 +127,8 @@ permalink: /about/
       <h3><strong>Soft Skills</strong></h3>
       <ul>
         <li>Adaptabilité & autonomie</li>
-        <li>Curiosité intellectuelle & résolution de problèmes</li>
-        <li>Communication & apprentissage continu</li>
+        <li>Curiosité & esprit d’analyse</li>
+        <li>Vulgarisation technique & pédagogie</li>
         <li>Esprit d’équipe & collaboration</li>
       </ul>
     </div>
@@ -138,24 +137,31 @@ permalink: /about/
 
   <!-- Contenu principal -->
   <div class="about-content">
-    <h1>Bonjour,</h1>
+    <h1>Bonjour et bienvenue,</h1>
 
-    <p><strong>Data Analyst orienté résultats</strong>, j’allie une solide formation scientifique à une expertise technique approfondie pour accompagner la transformation data‑driven de votre entreprise. Toujours curieux et pragmatique, je mets mon savoir‑faire au service de vos enjeux métiers.</p>
+    <p><strong>Data Analyst Freelance spécialisé dans l’aide à la décision et le reporting automatisé pour PME et startups.</strong></p>
 
-    <p><strong>Ce que j’apporte :</strong></p>
-    <p>Conception & automatisation de pipelines ELT/ETL (GCP, Python, Docker) pour intégrer, nettoyer et historiser vos données à grande échelle.</p>
-    <p>Modélisation & optimisation de bases de données (PostgreSQL, SQLAlchemy) garantissant fiabilité, scalabilité et performance.</p>
-    <p>Visualisation & reporting interactif (Power BI, Streamlit, Shiny) pour créer des dashboards clairs et actionnables.</p>
-    <p>Déploiement de solutions ML en production (MLOps) : de la préparation des données à l’explicabilité des modèles, en passant par l’intégration continue.</p>
-    <p>Collaboration agile avec les équipes métier pour définir les KPIs, cadrer les besoins et assurer une montée en compétence collective.</p>
+    <p>J’aide les entreprises à structurer et fiabiliser leurs données, automatiser leurs reporting sous Power BI et SQL, et concevoir des tableaux de bord interactifs et sur-mesure pour piloter efficacement leur activité.</p>
 
-    <p><strong>Pourquoi travailler ensemble ?</strong></p>
-    <p>Je transforme vos problématiques business en solutions data concrètes, valorise chaque donnée pour révéler de nouvelles opportunités, optimiser vos process et soutenir vos décisions stratégiques. Rigoureux, force de proposition et à l’écoute, je suis prêt à relever vos défis data, de la preuve de concept au déploiement opérationnel.</p>
+    <p><strong>Ce que je propose :</strong></p>
+    <p>✅ Structuration et nettoyage de vos données multi-sources (ERP, CRM, Excel)</p>
+    <p>✅ Automatisation de reporting et tableaux de bord sous Power BI</p>
+    <p>✅ Réalisation d’analyses statistiques et prévisionnelles via Python (Pandas, Seaborn)</p>
+    <p>✅ Définition des KPIs et accompagnement des équipes métiers</p>
 
-    <p>▶︎ Je suis à la recherche d’un <strong>poste en CDI</strong> au sein d’une équipe ambitieuse. Contactez‑moi pour échanger sur vos besoins et co‑construire la solution data qui fera la différence.</p>
+    <p><strong>Mes réalisations :</strong></p>
+    <p>📊 Analyse de 115M de trajets mobilité urbaine</p>
+    <p>🛒 Reporting sur 330K transactions e-commerce</p>
+    <p>💼 Tableaux de bord financiers et commerciaux pour PME</p>
+
+    <p><strong>Pourquoi collaborer ensemble ?</strong></p>
+    <p>Je transforme vos problématiques business en solutions data concrètes et lisibles, pour vous aider à piloter votre activité et optimiser vos process. Accessible, rigoureux et à l’écoute, je conçois des outils qui servent réellement à décider et à agir.</p>
+
+    <p>📩 Contactez-moi pour échanger sur vos projets ou demander un diagnostic gratuit.</p>
+    <p>Contactez-moi par email : <a href="mailto:francoisvercellotti@gmail.com">francoisvercellotti@gmail.com</a></p>
+    <p>Ou retrouvons-nous sur LinkedIn : <a href="https://www.linkedin.com/in/françoisvercellotti" target="_blank">François Vercellotti sur LinkedIn</a></p>
   </div>
   
 </div>
-
 </body>
-</html>
+</html>ml>
