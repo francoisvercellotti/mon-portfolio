@@ -180,7 +180,7 @@ permalink: /about/
     <div class="sidebar-section">
       <h3><strong>Formation</strong></h3>
       <ul>
-        <li><strong>2024</strong> – Certificat Data Analyst (1 an)</li>
+        <li><strong>2024–2025</strong> – Data Analyst (Titre RNCP 6 — Bac+3/4, 12 mois)</li>
         <li><strong>2000–2001</strong> – Licence Science de la matière (Physique‑Chimie)</li>
         <li><strong>1998–2000</strong> – DEUG Science de la matière (Physique‑Chimie)</li>
       </ul>
