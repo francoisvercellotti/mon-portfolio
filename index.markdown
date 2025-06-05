@@ -64,7 +64,7 @@ permalink: /
 <body>
 
 <div class="home-container">
-  <h1>Bienvenue 👋</h1>
+  <h1>Bonjour et bienvenue</h1>
 
   <p>Je suis <strong>François Vercellotti</strong>, Data Analyst Freelance spécialisé dans la <strong>structuration de données</strong>, l’<strong>automatisation de reporting</strong> et la création de <strong>dashboards décisionnels</strong> pour PME et startups.</p>
 
