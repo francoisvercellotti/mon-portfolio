@@ -71,8 +71,8 @@ permalink: /
   <p>Ce site vous permet de :</p>
 
   <ul>
-    <li>📌 En savoir plus <a href="/about/">sur mon parcours et ma méthode</a></li>
-    <li>📊 Découvrir <a href="/projects/">des projets concrets que j’ai réalisés</a></li>
+    <li>📌 En savoir plus <a href="{{ '/about/' | relative_url }}">sur mon parcours et ma méthode</a></li>
+    <li>📊 Découvrir <a href="{{ '/projects/' | relative_url }}">des projets concrets que j'ai réalisés</a></li>
     <li>📩 <a href="mailto:francoisvercellotti@gmail.com">Me contacter pour échanger sur vos besoins</a></li>
   </ul>
 
