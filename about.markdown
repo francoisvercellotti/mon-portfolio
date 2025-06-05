@@ -210,7 +210,7 @@ permalink: /about/
 
   <!-- Contenu principal -->
   <div class="about-content">
-    <h1>Bonjour et bienvenue,</h1>
+    <h1>Bonjour,</h1>
 
     <p><strong>Data Analyst Freelance spécialisé dans l'aide à la décision et le reporting automatisé pour PME et startups.</strong></p>
 
