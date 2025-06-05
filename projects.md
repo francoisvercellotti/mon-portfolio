@@ -107,73 +107,67 @@ body {
   <div class="project-card">
     <h3><a href="https://github.com/francoisvercellotti/Ecommerce_bresilien_analysis.git">Tableau de Bord d'Analyse du E-commerce Olist</a></h3>
     <img src="{{ '/assets/screencast.gif' | relative_url }}" alt="Démonstration Tableau de Bord olist">
-    <p>Ce projet est une solution complète d'ingénierie de données et d'intelligence commerciale pour analyser Olist, une plateforme e-commerce brésilienne. En exploitant une modélisation de données avancée, des scripts Python et une visualisation interactive, le projet transforme des données brutes de commerce électronique en informations exploitables.</p>
-    </div>
-  
-  <div class="project-card">
-        <h3><a href="https://github.com/francoisvercellotti/prediction_donnees_immobilieres.git">Application de prediction de valeurs immobilières</a></h3>
-        <img src="{{ '/assets/demo.gif' | relative_url }}" alt="application prédiction">
-          <p>J’ai développé une application d’aide à l’estimation immobilière à destination des agences et investisseurs. Basée sur un modèle de machine learning entraîné sur des données transactionnelles, l’application prédit le prix des biens selon leurs caractéristiques et localisations.  
-    L’outil intègre également des visualisations explicatives pour justifier chaque estimation, améliorant la transparence et la confiance des utilisateurs.</p>
-    <p><strong>Outils :</strong> Python (scikit-learn, Streamlit), Power BI</p>
-    <p><strong>Bénéfice client :</strong> gain de temps pour les estimations, meilleur argumentaire commercial et anticipation des évolutions de prix.</p>
+    <p>Analyse des données transactionnelles de la marketplace brésilienne Olist pour identifier les leviers d’optimisation commerciale et logistique. Le tableau de bord interactif permet de suivre les performances des vendeurs et les délais de livraison.</p>
+    <p><strong>Bénéfice client :</strong> prise de décision facilitée pour améliorer le taux de satisfaction client et la rentabilité de la plateforme.</p>
   </div>
+  
+    <div class="project-card">
+          <h3><a href="https://github.com/francoisvercellotti/prediction_donnees_immobilieres.git">Application de prediction de valeurs immobilières</a></h3>
+          <img src="{{ '/assets/demo.gif' | relative_url }}" alt="application prédiction">
+            <p>J’ai développé une application d’aide à l’estimation immobilière à destination des agences et investisseurs. Basée sur un modèle de machine learning entraîné sur des données transactionnelles, l’application prédit le prix des biens selon leurs caractéristiques et localisations.  
+      L’outil intègre également des visualisations explicatives pour justifier chaque estimation, améliorant la transparence et la confiance des utilisateurs.</p>
+      <p><strong>Bénéfice client :</strong> gain de temps pour les estimations, meilleur argumentaire commercial et anticipation des évolutions de prix.</p>
+    </div>
 
- <div class="project-card">
-        <h3><a href="https://github.com/francoisvercellotti/bigquery_taxi_trips_analytics.git">Pipeline analytique GCP & Power BI : impact météo sur les taxis à NYC</a></h3>
-      <img src="https://raw.githubusercontent.com/francoisvercellotti/mon-portfolio/bbb609dd4acd9660da71728c214866784fc6c315/assets/screencast_dashboard.gif" alt="Projet GCP/PowerBI analytics">
+     <div class="project-card">
+            <h3><a href="https://github.com/francoisvercellotti/bigquery_taxi_trips_analytics.git">Pipeline analytique GCP & Power BI : impact météo sur les taxis à NYC</a></h3>
+          <img src="https://raw.githubusercontent.com/francoisvercellotti/mon-portfolio/bbb609dd4acd9660da71728c214866784fc6c315/assets/screencast_dashboard.gif" alt="Projet GCP/PowerBI analytics">
 
-        <p>Dans ce projet, j'ai analysé plus de 100 millions de courses de taxi à New York pour étudier l’impact des conditions météorologiques sur la mobilité urbaine. J'ai conçu un pipeline ELT sur GCP et des dashboards Power BI pour transformer ces données en insights exploitables. Ce projet illustre ma maîtrise des workflows data et de la valorisation des données à grande échelle.</p>
+        <p>Analyse de plus de 100 millions de courses de taxi à New York pour mesurer l’impact des conditions météo sur la mobilité. Mise en place d’un pipeline ELT sur Google Cloud Platform et création de dashboards Power BI pour transformer ces données en insights opérationnels.</p>
+      <p><strong>Bénéfice client :</strong> identification des périodes critiques et meilleure planification de l’offre de transport selon la météo.</p>
     </div>
 
     <div class="project-card">
     <h3><a href="https://github.com/francoisvercellotti/instacart-analysis-shiny.git">Tableau de Bord d'Analyse de Panier Instacart</a></h3>
     <img src="{{ '/assets/screencast_appli-gif.gif' | relative_url }}" alt="Démonstration Tableau de Bord Instacart">
-    <p>Dans ce projet personnel, j'ai développé un tableau de bord d'analyse des données de panier d'Instacart, un service de livraison de courses en ligne. Cette application permet d'explorer les comportements d'achat des clients, leurs préférences produits et leurs habitudes de commande à travers des visualisations interactives.
-    Ce projet met en évidence ma maîtrise de l'optimisation des bases de données, de l'analyse de données et du développement d'applications web, en combinant des technologies comme Python, SQLAlchemy, PostgreSQL et Shiny.</p>
+    <p>Développement d’une application Shiny d’analyse des comportements d’achat sur Instacart. Exploration des préférences clients et habitudes de commande à travers des dashboards interactifs et filtres dynamiques.</p>
+      <p><strong>Bénéfice client :</strong> amélioration des recommandations produits et adaptation de la stratégie marketing selon les typologies d’acheteurs.</p>
     </div>
-
 
     <div class="project-card">
         <h3><a href="https://github.com/francoisvercellotti/tableau_bord_acces_eau_potable.git">Tableau de bord pour l'identification des besoins en accès à l'eau potable</a></h3>
         <img src="https://github.com/user-attachments/assets/f5343c5d-40a3-44be-996f-e5f2a79753ea" alt="Projet Eau Potable">
-        <p>Dans le cadre de ma mission en tant que consultant data analyst pour l'ONG DWFA (Drinking Water For All),
-        j'ai développé un tableau de bord interactif permettant d'identifier les pays ayant des difficultés d'accès à l'eau potable.
-        L'objectif était de prioriser les efforts d'intervention et d'optimiser la répartition des ressources.</p>
+        <p> Développement pour l'ONG DWFA d’un dashboard interactif permettant d’identifier les zones géographiques prioritaires en matière d’accès à l’eau potable. Visualisation des indicateurs clés et priorisation des interventions humanitaires.</p>
+      <p><strong>Bénéfice client :</strong> allocation optimisée des ressources et rationalisation des plans d’action sur le terrain.</p>
     </div>
 
     <div class="project-card">
         <h3><a href="https://github.com/francoisvercellotti/analyse_marche_developpement_international.git">Analyse de marché pour l'exportation de poulets biologiques</a></h3>
         <img src="{{ '/image_cluster.png' | relative_url }}" alt="Projet Exportation">
-        <p>Ce projet visait à segmenter les pays en fonction de données socio-économiques, politiques et environnementales
-        afin d'identifier des clusters pertinents. Grâce à l'analyse des données et à des modèles de machine learning,
-        j'ai pu recommander les pays les plus stratégiques pour une expansion internationale du marché des poulets biologiques.</p>
+        <p>Segmentation des pays selon des indicateurs économiques et environnementaux pour identifier les zones stratégiques de développement à l’international pour une filière de volaille bio.</p>
+      <p><strong>Bénéfice client :</strong> ciblage de marchés export pertinents et réduction des risques liés aux implantations internationales.</p>
     </div>
 
     <div class="project-card">
         <h3><a href="https://github.com/francoisvercellotti/analyse_ventes_e-commerce.git">Analyse des ventes d'un e-commerce</a></h3>
         <img src="https://github.com/user-attachments/assets/ba340984-40f8-4c79-94de-d1440ec1b200" alt="Projet E-commerce">
-        <p>Dans ce projet, j'ai analysé les ventes en ligne d'une librairie en utilisant des outils de data analysis
-        afin d'extraire des informations clés sur les tendances d'achat et d'optimiser la stratégie marketing.
-        Grâce à des visualisations interactives et des modèles prédictifs, j'ai pu recommander des actions pour maximiser les revenus.</p>
+        <p>Analyse des performances commerciales d’une librairie en ligne à travers des indicateurs de ventes, clients et marges. Détection des produits à forte valeur et recommandations pour optimiser la stratégie marketing.</p>
+      <p><strong>Bénéfice client :</strong> amélioration de la rentabilité et optimisation des campagnes promotionnelles.</p>
     </div>
 
     <div class="project-card">
-        <h3><a href="https://github.com/francoisvercellotti/reporting_powerbi_multinationale.git">Création d'un Dashboard de suivi de projet et des performances</a></h3>
+        <h3><a href="https://github.com/francoisvercellotti/reporting_powerbi_multinationale.git">Dashboard de suivi projet et performance</a></h3>
         <img src="https://github.com/user-attachments/assets/81369059-b40c-42fc-a0dd-23c2372a9989" alt="Projet Reporting">
-        <p>Sanitoral, une multinationale spécialisée dans les soins bucco-dentaires, avait besoin d'un outil permettant
-        de suivre l'avancement de ses projets et d'évaluer les performances financières.
-        J'ai développé un tableau de bord Power BI pour identifier les retards, contrôler les coûts et
-        aider l'équipe Project Management Office à prendre des décisions éclairées.</p>
+          <p>Développement pour Sanitoral d’un tableau de bord de suivi projet et financier. Centralisation des données, suivi des coûts et délais, identification des écarts et génération d’indicateurs de pilotage pour le comité de direction.</p>
+      <p><strong>Bénéfice client :</strong> meilleure maîtrise budgétaire et réduction des risques projets.</p>
     </div>
 
- <div class="project-card">
-        <h3><a href="https://github.com/francoisvercellotti/base_de_donnees_immobiliere.git">Créer et requêter une base de données immobilières</a></h3>
-        <img src="https://github.com/user-attachments/assets/05c9b225-9420-4d58-aff7-964f099039d0" alt="Projet Immobilier">
-        <p>Laplace Immo, un réseau national d'agences immobilières, m'a confié la modification de la base de données
-        permettant de collecter les transactions immobilières et foncières en France. Mon objectif a été d'optimiser les
-        requêtes SQL pour analyser le marché et fournir aux agences des insights pour améliorer leur accompagnement client.</p>
-    </div>
+     <div class="project-card">
+            <h3><a href="https://github.com/francoisvercellotti/base_de_donnees_immobiliere.git">Créer et requêter une base de données immobilières</a></h3>
+            <img src="https://github.com/user-attachments/assets/05c9b225-9420-4d58-aff7-964f099039d0" alt="Projet Immobilier">
+              <p>Mission pour Laplace Immo : restructuration et optimisation des bases de données de transactions immobilières. Automatisation des reporting et analyses marché pour accompagner les agences dans leur stratégie locale.</p>
+        <p><strong>Bénéfice client :</strong> gains de temps dans la production de reporting, meilleure visibilité sur les dynamiques locales et amélioration des préconisations commerciales.</p>
+      </div>
    
 </div>
 </body>
