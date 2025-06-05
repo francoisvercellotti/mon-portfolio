@@ -103,65 +103,45 @@ permalink: /
 
   <!-- Colonne de gauche -->
   <div class="sidebar">
-
     <div class="sidebar-section">
-      <h3><strong>Formation</strong></h3>
+      <h3><strong>Navigation</strong></h3>
       <ul>
-        <li><strong>2024</strong> – Certificat Data Analyst (1 an)</li>
-        <li><strong>2000–2001</strong> – Licence Science de la matière (Physique‑Chimie)</li>
-        <li><strong>1998–2000</strong> – DEUG Science de la matière (Physique‑Chimie)</li>
+        <li><a href="/apropos.html"><strong>À propos</strong></a></li>
+        <li><a href="/projets.html"><strong>Mes projets</strong></a></li>
+        <li><a href="mailto:francoisvercellotti@gmail.com"><strong>Me contacter</strong></a></li>
       </ul>
     </div>
-
     <div class="sidebar-section">
-      <h3><strong>Expertise technique</strong></h3>
+      <h3><strong>Portfolio</strong></h3>
       <ul>
-        <li><strong>Programmation & traitement de données :</strong> Python (Pandas, Seaborn, Matplotlib), SQL</li>
-        <li><strong>Data Engineering :</strong> BigQuery, automatisation de flux via Python et SQL</li>
-        <li><strong>Visualisation & BI :</strong> Power BI</li>
-        <li><strong>Versioning :</strong> Git/GitHub</li>
+        <li><a href="https://francoisvercellotti.github.io/mon-portfolio" target="_blank">Lien direct</a></li>
       </ul>
     </div>
-
-    <div class="sidebar-section">
-      <h3><strong>Soft Skills</strong></h3>
-      <ul>
-        <li>Adaptabilité & autonomie</li>
-        <li>Curiosité & esprit d’analyse</li>
-        <li>Vulgarisation technique & pédagogie</li>
-        <li>Esprit d’équipe & collaboration</li>
-      </ul>
-    </div>
-
   </div>
 
   <!-- Contenu principal -->
   <div class="about-content">
-    <h1>Bonjour et bienvenue,</h1>
+    <h1>Bienvenue 👋</h1>
+    <p>Je suis <strong>François Vercellotti</strong>, Data Analyst Freelance spécialisé dans la structuration des données, l’automatisation du reporting et la création de dashboards clairs et actionnables.</p>
 
-    <p><strong>Data Analyst Freelance spécialisé dans l’aide à la décision et le reporting automatisé pour PME et startups.</strong></p>
+    <p>J’aide les PME et startups à retrouver le contrôle de leurs données, à prendre des décisions fondées et à ne plus perdre de temps avec des fichiers Excel impossibles à maintenir.</p>
 
-    <p>J’aide les entreprises à structurer et fiabiliser leurs données, automatiser leurs reporting sous Power BI et SQL, et concevoir des tableaux de bord interactifs et sur-mesure pour piloter efficacement leur activité.</p>
+    <p>Sur ce portfolio, vous pouvez :</p>
+    <ul>
+      <li>📌 En savoir plus <a href="/apropos.html">sur mon parcours et mes méthodes</a></li>
+      <li>📊 Découvrir <a href="/projets.html">des projets concrets que j’ai réalisés</a></li>
+      <li>📩 <a href="mailto:francoisvercellotti@gmail.com">Me contacter pour échanger sur vos besoins</a></li>
+    </ul>
 
-    <p><strong>Ce que je propose :</strong></p>
-    <p>✅ Structuration et nettoyage de vos données multi-sources (ERP, CRM, Excel)</p>
-    <p>✅ Automatisation de reporting et tableaux de bord sous Power BI</p>
-    <p>✅ Réalisation d’analyses statistiques et prévisionnelles via Python (Pandas, Seaborn)</p>
-    <p>✅ Définition des KPIs et accompagnement des équipes métiers</p>
+    <p>🔍 Vous êtes au bon endroit si vous cherchez à :</p>
+    <ul>
+      <li>✅ Structurer vos données et fiabiliser vos bases</li>
+      <li>✅ Automatiser vos reporting</li>
+      <li>✅ Mettre en place des tableaux de bord clairs, utiles, et sur-mesure</li>
+    </ul>
 
-    <p><strong>Mes réalisations :</strong></p>
-    <p>📊 Analyse de 115M de trajets mobilité urbaine</p>
-    <p>🛒 Reporting sur 330K transactions e-commerce</p>
-    <p>💼 Tableaux de bord financiers et commerciaux pour PME</p>
-
-    <p><strong>Pourquoi collaborer ensemble ?</strong></p>
-    <p>Je transforme vos problématiques business en solutions data concrètes et lisibles, pour vous aider à piloter votre activité et optimiser vos process. Accessible, rigoureux et à l’écoute, je conçois des outils qui servent réellement à décider et à agir.</p>
-
-    <p>📩 Contactez-moi pour échanger sur vos projets ou demander un diagnostic gratuit.</p>
-    <p>Contactez-moi par email : <a href="mailto:francoisvercellotti@gmail.com">francoisvercellotti@gmail.com</a></p>
-    <p>Ou retrouvons-nous sur LinkedIn : <a href="https://www.linkedin.com/in/françoisvercellotti" target="_blank">François Vercellotti sur LinkedIn</a></p>
+    <p>Bonne visite !</p>
   </div>
-  
 </div>
 </body>
 </html>
