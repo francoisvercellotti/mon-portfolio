@@ -128,8 +128,8 @@ permalink: /
 
     <p>Sur ce portfolio, vous pouvez :</p>
     <ul>
-      <li>📌 En savoir plus <a href="/apropos.html">sur mon parcours et mes méthodes</a></li>
-      <li>📊 Découvrir <a href="/projets.html">des projets concrets que j’ai réalisés</a></li>
+      <li>📌 En savoir plus <a href="/about.markdown">sur mon parcours et mes méthodes</a></li>
+      <li>📊 Découvrir <a href="/projects.md">des projets concrets que j’ai réalisés</a></li>
       <li>📩 <a href="mailto:francoisvercellotti@gmail.com">Me contacter pour échanger sur vos besoins</a></li>
     </ul>
 
