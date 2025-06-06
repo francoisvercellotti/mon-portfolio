@@ -109,7 +109,7 @@ body {
       <img src="{{ '/assets/screencast.gif' | relative_url }}" alt="Démonstration Tableau de Bord olist">
       <p>Conception d’un outil analytique complet permettant aux équipes de pilotage et marketing d’optimiser la gestion client et la performance commerciale :</p>
       <ul>
-        <li>Identification des segments clients à fort potentiel et détection des clients à risque.</li>
+        <li>Identification des segments clients à fort potentiel et des clients à risque.</li>
         <li>Analyse du comportement des acheteurs</li>
         <li>Prévisions de ventes et anticipation des pics d’activité</li>
         <li>Suivi en temps réel des performances vendeurs et des délais logistiques</li>
