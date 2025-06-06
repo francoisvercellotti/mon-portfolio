@@ -105,21 +105,16 @@ body {
 <div class="project-container">
     
   <div class="project-card">
-    <h3><a href="https://github.com/francoisvercellotti/Ecommerce_bresilien_analysis.git">Analyse avancée des données transactionnelles de la marketplace brésilienne Olist via un tableau de bord interactif.</a></h3>
+    <h3><a href="https://github.com/francoisvercellotti/Ecommerce_bresilien_analysis.git">Analyse avancée des données transactionnelles d'une marketplace via un tableau de bord interactif.</a></h3>
     <img src="{{ '/assets/screencast.gif' | relative_url }}" alt="Démonstration Tableau de Bord olist">
-    <pJ’ai conçu un outil complet intégrant :
-
-Segmentation client par RFM (Récence, Fréquence, Montant) pour cibler les segments à fort potentiel et identifier les clients à risque.
-
-Analyse de cohortes pour suivre l’évolution du comportement des utilisateurs dans le temps.
-
-Prévisions de ventes basées sur les tendances passées et saisonnalités.
-
-Évaluation du risque d’attrition client afin d’anticiper et réduire le churn.
-
-Suivi des performances vendeurs et délais logistiques, avec visualisation des KPIs clés.
-
-</p>
+    <p>J’ai conçu un outil complet intégrant :</p>
+    <ul>
+      <li>Segmentation client par RFM (Récence, Fréquence, Montant) pour cibler les segments à fort potentiel et identifier les clients à risque.</li>
+      <li>Analyse de cohortes pour suivre l’évolution du comportement des utilisateurs dans le temps.</li>
+      <li>Prévisions de ventes basées sur les tendances passées et saisonnalités.</li>
+      <li>Évaluation du risque d’attrition client afin d’anticiper et réduire le churn.</li>
+      <li>Suivi des performances vendeurs et délais logistiques, avec visualisation des KPIs clés.</li>
+    </ul>
     <p><strong>Bénéfice client :</strong>un outil d’aide à la décision stratégique pour optimiser la satisfaction client, la rentabilité et la gestion logistique de la plateforme.</p>
   </div>
   
