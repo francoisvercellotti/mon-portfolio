@@ -104,18 +104,18 @@ body {
 <body>
 <div class="project-container">
     
-  <div class="project-card">
-    <h3><a href="https://github.com/francoisvercellotti/Ecommerce_bresilien_analysis.git">Analyse avancée des données transactionnelles d'une marketplace via un tableau de bord interactif.</a></h3>
-    <img src="{{ '/assets/screencast.gif' | relative_url }}" alt="Démonstration Tableau de Bord olist">
-    <p>Conception d’un outil analytique complet permettant aux équipes de pilotage et marketing d’optimiser la gestion client et la performance commerciale :</p>
-    <ul>
-      <li>Identification des segments clients à fort potentiel et détection des clients à risque.</li>
-      <li>Analyse du comportement des acheteurs dans le temps pour ajuster les stratégies de fidélisation.</li>
-      <li>Prévisions de ventes et anticipation des pics d’activité pour mieux dimensionner l’offre et les ressources.</li>
-      <li>Suivi en temps réel des performances vendeurs et des délais logistiques pour améliorer la satisfaction client.</li>
-    </ul>
-    <p><strong>Bénéfice client :</strong> un outil stratégique pour booster la rentabilité, réduire le churn et fluidifier la gestion opérationnelle de la marketplace.</p>
-  </div>
+    <div class="project-card">
+      <h3><a href="https://github.com/francoisvercellotti/Ecommerce_bresilien_analysis.git">Analyse avancée des données transactionnelles d'une marketplace via un tableau de bord interactif.</a></h3>
+      <img src="{{ '/assets/screencast.gif' | relative_url }}" alt="Démonstration Tableau de Bord olist">
+      <p>Conception d’un outil analytique complet permettant aux équipes de pilotage et marketing d’optimiser la gestion client et la performance commerciale :</p>
+      <ul>
+        <li>Identification des segments clients à fort potentiel et détection des clients à risque.</li>
+        <li>Analyse du comportement des acheteurs</li>
+        <li>Prévisions de ventes et anticipation des pics d’activité</li>
+        <li>Suivi en temps réel des performances vendeurs et des délais logistiques</li>
+      </ul>
+      <p><strong>Bénéfice client :</strong> un outil stratégique pour booster la rentabilité, réduire le churn et fluidifier la gestion opérationnelle de la marketplace.</p>
+    </div>
   
     <div class="project-card">
           <h3><a href="https://github.com/francoisvercellotti/prediction_donnees_immobilieres.git">Application de prédiction de Prix Immobiliers : Gagnez en Précision et en Argumentaire Commercial</a></h3>
@@ -149,7 +149,7 @@ body {
     </div>
 
     <div class="project-card">
-      <h3><a href="https://github.com/francoisvercellotti/tableau_bord_acces_eau_potable.git">Tableau de bord interactif pour prioriser l’accès à l’eau potable</a></h3>
+      <h3><a href="https://github.com/francoisvercellotti/tableau_bord_acces_eau_potable.git">Tableau de bord stratégique pour améliorer l’accès à l’eau potable dans les zones vulnérables</a></h3>
       <img src="https://github.com/user-attachments/assets/f5343c5d-40a3-44be-996f-e5f2a79753ea" alt="Projet Eau Potable">
       <p>Face aux défis croissants de l’accès à l’eau potable, j’ai accompagné l’ONG DWFA (fictif) dans la création d’un outil visuel puissant qui transforme des données complexes en décisions concrètes.</p>
       <p>Ce tableau de bord interactif offre une vue claire et précise des besoins à différentes échelles géographiques, permettant aux équipes de terrain de cibler rapidement les zones les plus vulnérables et d’adapter leurs actions en temps réel.</p>
