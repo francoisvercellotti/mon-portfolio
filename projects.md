@@ -150,7 +150,7 @@ body {
       <li>Système de recommandations personnalisées basé sur l’historique et les catégories de produits</li>
     </ul>
     <p><strong>Bénéfice client :</strong> optimisation des recommandations produits et ajustement des actions marketing selon les profils et habitudes d’achat des clients.</p>
-
+    </div>
 
     <div class="project-card">
         <h3><a href="https://github.com/francoisvercellotti/tableau_bord_acces_eau_potable.git">Tableau de bord pour l'identification des besoins en accès à l'eau potable</a></h3>
