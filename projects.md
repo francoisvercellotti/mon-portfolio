@@ -160,10 +160,11 @@ body {
     </div>
 
     <div class="project-card">
-        <h3><a href="https://github.com/francoisvercellotti/analyse_marche_developpement_international.git">Analyse de marché pour l'exportation de poulets biologiques</a></h3>
+        <h3><a href="https://github.com/francoisvercellotti/analyse_marche_developpement_international.git">Étude de marché pour le développement international d'une filière bio</a></h3>
         <img src="{{ '/image_cluster.png' | relative_url }}" alt="Projet Exportation">
-        <p>Segmentation des pays selon des indicateurs économiques et environnementaux pour identifier les zones stratégiques de développement à l’international pour une filière de volaille bio.</p>
-      <p><strong>Bénéfice client :</strong> ciblage de marchés export pertinents et réduction des risques liés aux implantations internationales.</p>
+        <p>Identification des zones de développement stratégique à l’international pour une filière de volaille bio. Le projet a consisté à segmenter les pays selon des indicateurs économiques, environnementaux et de consommation, afin de détecter les marchés à fort potentiel et d’écarter ceux présentant des risques ou des freins réglementaires.
+    L’analyse a permis de prioriser les destinations export et de formuler des recommandations concrètes pour adapter la stratégie de déploiement à l’international.</p>
+        <p><strong>Bénéfice client :</strong>  ciblage de marchés pertinents, réduction des risques liés aux implantations et meilleure allocation des ressources commerciales.</p>
     </div>
 
     <div class="project-card">
