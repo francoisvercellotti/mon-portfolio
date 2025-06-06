@@ -115,7 +115,7 @@ body {
       <li>Évaluation du risque d’attrition client afin d’anticiper et réduire le churn.</li>
       <li>Suivi des performances vendeurs et délais logistiques, avec visualisation des KPIs clés.</li>
     </ul>
-    <p><strong>Bénéfice client :</strong>un outil d’aide à la décision stratégique pour optimiser la satisfaction client, la rentabilité et la gestion logistique de la plateforme.</p>
+    <p><strong>Bénéfice client :</strong> un outil d’aide à la décision stratégique pour optimiser la satisfaction client, la rentabilité et la gestion logistique de la plateforme.</p>
   </div>
   
     <div class="project-card">
@@ -142,9 +142,16 @@ body {
     <div class="project-card">
     <h3><a href="https://github.com/francoisvercellotti/instacart-analysis-shiny.git">Tableau de Bord d'Analyse de Panier Instacart</a></h3>
     <img src="{{ '/assets/screencast_appli-gif.gif' | relative_url }}" alt="Démonstration Tableau de Bord Instacart">
-    <p>Développement d’une application Shiny d’analyse des comportements d’achat sur Instacart. Exploration des préférences clients et habitudes de commande à travers des dashboards interactifs et filtres dynamiques.</p>
-      <p><strong>Bénéfice client :</strong> amélioration des recommandations produits et adaptation de la stratégie marketing selon les typologies d’acheteurs.</p>
-    </div>
+    <p>Conception d’une application Shiny interactive dédiée à l’analyse des comportements d’achat sur la marketplace Instacart. L’outil explore les habitudes de commande et préférences clients via des dashboards dynamiques intégrant :</p>
+    <ul>
+      <li>Statistiques globales sur les commandes, utilisateurs et produits</li>
+      <li>Analyses temporelles (jour, heure, heatmap des commandes)</li>
+      <li>Étude des produits les plus commandés et des taux de réachat</li>
+      <li>Analyse des tailles de panier selon le moment d’achat</li>
+      <li>Système de recommandations personnalisées basé sur l’historique et les catégories de produits</li>
+    </ul>
+    <p><strong>Bénéfice client :</strong> optimisation des recommandations produits et ajustement des actions marketing selon les profils et habitudes d’achat des clients.</p>
+
 
     <div class="project-card">
         <h3><a href="https://github.com/francoisvercellotti/tableau_bord_acces_eau_potable.git">Tableau de bord pour l'identification des besoins en accès à l'eau potable</a></h3>
