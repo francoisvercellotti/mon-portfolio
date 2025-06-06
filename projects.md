@@ -151,10 +151,11 @@ body {
     <div class="project-card">
       <h3><a href="https://github.com/francoisvercellotti/tableau_bord_acces_eau_potable.git">Tableau de bord interactif pour prioriser l’accès à l’eau potable</a></h3>
       <img src="https://github.com/user-attachments/assets/f5343c5d-40a3-44be-996f-e5f2a79753ea" alt="Projet Eau Potable">
-      <p>Développé pour l’ONG DWFA, ce dashboard interactif permet d’identifier les zones géographiques prioritaires en matière d’accès à l’eau potable grâce à une analyse multi-échelle et des indicateurs clés clairs.</p>
-      <p>Les visualisations dynamiques facilitent l’exploration des données à l’échelle mondiale, continentale et nationale, mettant en lumière les évolutions temporelles et géographiques.</p>
-      <p><strong>Bénéfice client :</strong> optimisation de l’allocation des ressources et meilleure planification des interventions humanitaires sur le terrain.</p>
+      <p>Face aux défis croissants de l’accès à l’eau potable, j’ai accompagné l’ONG DWFA (fictif) dans la création d’un outil visuel puissant qui transforme des données complexes en décisions concrètes.</p>
+      <p>Ce tableau de bord interactif offre une vue claire et précise des besoins à différentes échelles géographiques, permettant aux équipes de terrain de cibler rapidement les zones les plus vulnérables et d’adapter leurs actions en temps réel.</p>
+      <p><strong>Bénéfice client :</strong> un pilotage éclairé et agile des ressources, maximisant l’impact des interventions humanitaires pour sauver des vies et améliorer les conditions d’accès à l’eau.</p>
     </div>
+
 
 
     <div class="project-card">
