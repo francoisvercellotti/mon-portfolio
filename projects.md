@@ -107,15 +107,14 @@ body {
   <div class="project-card">
     <h3><a href="https://github.com/francoisvercellotti/Ecommerce_bresilien_analysis.git">Analyse avancée des données transactionnelles d'une marketplace via un tableau de bord interactif.</a></h3>
     <img src="{{ '/assets/screencast.gif' | relative_url }}" alt="Démonstration Tableau de Bord olist">
-    <p>J’ai conçu un outil complet intégrant :</p>
+    <p>Conception d’un outil analytique complet permettant aux équipes de pilotage et marketing d’optimiser la gestion client et la performance commerciale :</p>
     <ul>
-      <li>Segmentation client par RFM (Récence, Fréquence, Montant) pour cibler les segments à fort potentiel et identifier les clients à risque.</li>
-      <li>Analyse de cohortes pour suivre l’évolution du comportement des utilisateurs dans le temps.</li>
-      <li>Prévisions de ventes basées sur les tendances passées et saisonnalités.</li>
-      <li>Évaluation du risque d’attrition client afin d’anticiper et réduire le churn.</li>
-      <li>Suivi des performances vendeurs et délais logistiques, avec visualisation des KPIs clés.</li>
+      <li>Identification des segments clients à fort potentiel et détection des clients à risque.</li>
+      <li>Analyse du comportement des acheteurs dans le temps pour ajuster les stratégies de fidélisation.</li>
+      <li>Prévisions de ventes et anticipation des pics d’activité pour mieux dimensionner l’offre et les ressources.</li>
+      <li>Suivi en temps réel des performances vendeurs et des délais logistiques pour améliorer la satisfaction client.</li>
     </ul>
-    <p><strong>Bénéfice client :</strong> un outil d’aide à la décision stratégique pour optimiser la satisfaction client, la rentabilité et la gestion logistique de la plateforme.</p>
+    <p><strong>Bénéfice client :</strong> un outil stratégique pour booster la rentabilité, réduire le churn et fluidifier la gestion opérationnelle de la marketplace.</p>
   </div>
   
     <div class="project-card">
