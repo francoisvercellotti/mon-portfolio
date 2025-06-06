@@ -135,7 +135,7 @@ body {
     </div>
 
     <div class="project-card">
-    <h3><a href="https://github.com/francoisvercellotti/instacart-analysis-shiny.git">Tableau de Bord d'Analyse de Panier Instacart</a></h3>
+    <h3><a href="https://github.com/francoisvercellotti/instacart-analysis-shiny.git">Application Interactive d’Analyse des Comportements d’Achat d'une Marketplace</a></h3>
     <img src="{{ '/assets/screencast_appli-gif.gif' | relative_url }}" alt="Démonstration Tableau de Bord Instacart">
     <p>Conception d’une application Shiny interactive dédiée à l’analyse des comportements d’achat sur la marketplace Instacart. L’outil explore les habitudes de commande et préférences clients via des dashboards dynamiques intégrant :</p>
     <ul>
