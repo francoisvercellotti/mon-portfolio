@@ -129,13 +129,9 @@ body {
             <h3><a href="https://github.com/francoisvercellotti/bigquery_taxi_trips_analytics.git">Analyse des trajets de taxis & de l'impact météo à NYC : pipeline GCP & dashboard Power BI</a></h3>
           <img src="https://raw.githubusercontent.com/francoisvercellotti/mon-portfolio/bbb609dd4acd9660da71728c214866784fc6c315/assets/screencast_dashboard.gif" alt="Projet GCP/PowerBI analytics">
 
-        <p>J’ai automatisé un pipeline ELT complet sur Google Cloud Platform pour collecter, structurer et traiter plus de 100 millions de courses de taxi couplées aux données météo. Grâce à une base fiable et scalable dans BigQuery, un tableau de bord Power BI interactif permet aux décideurs de suivre en temps réel l’impact météo sur la demande et d’ajuster l’offre de transport efficacement.</p>
+        <p>Automatisation d'un pipeline ELT complet sur Google Cloud Platform pour collecter, structurer et traiter plus de 100 millions de courses de taxi couplées aux données météo. Grâce à une base fiable et scalable dans BigQuery, un tableau de bord Power BI interactif permet aux décideurs de suivre en temps réel l’impact météo sur la demande et d’ajuster l’offre de transport efficacement.</p>
       <p><strong>Bénéfice client :</strong> </p>
-      <ul>
-      <li>Automatisation complète pour un suivi régulier et sans erreur</li>
-      <li>Données propres et bien organisées pour des analyses précises</li>
-      <li>Insights exploitables pour anticiper les pics d’activité liés à la météo</li>
-      </ul>
+      Suivi régulier et fiable grâce à une automatisation du processus, des données structurées pour des analyses précises, et des insights clairs permettant d’anticiper les pics d’activité liés à la météo.
     </div>
 
     <div class="project-card">
