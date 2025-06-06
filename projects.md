@@ -119,7 +119,7 @@ body {
   </div>
   
     <div class="project-card">
-          <h3><a href="https://github.com/francoisvercellotti/prediction_donnees_immobilieres.git">Application de prediction de valeurs immobilières</a></h3>
+          <h3><a href="https://github.com/francoisvercellotti/prediction_donnees_immobilieres.git">Prédiction de Prix Immobiliers et Analyse Interactive : Gagnez en Précision et en Argumentaire Commercial</a></h3>
           <img src="{{ '/assets/demo.gif' | relative_url }}" alt="application prédiction">
             <p>J’ai développé une application d’aide à l’estimation immobilière à destination des agences et investisseurs. Basée sur un modèle de machine learning entraîné sur des données transactionnelles, l’application prédit le prix des biens selon leurs caractéristiques et localisations.  
       L’outil intègre également des visualisations explicatives pour justifier chaque estimation, améliorant la transparence et la confiance des utilisateurs.</p>
@@ -127,11 +127,20 @@ body {
     </div>
 
      <div class="project-card">
-            <h3><a href="https://github.com/francoisvercellotti/bigquery_taxi_trips_analytics.git">Pipeline analytique GCP & Power BI : impact météo sur les taxis à NYC</a></h3>
+            <h3><a href="https://github.com/francoisvercellotti/bigquery_taxi_trips_analytics.git">Pipeline analytique automatisé GCP et tableau de bord décisionnel Power BI : analyse des trajets de taxis et de l'impact météo à New York</a></h3>
           <img src="https://raw.githubusercontent.com/francoisvercellotti/mon-portfolio/bbb609dd4acd9660da71728c214866784fc6c315/assets/screencast_dashboard.gif" alt="Projet GCP/PowerBI analytics">
 
-        <p>Analyse de plus de 100 millions de courses de taxi à New York pour mesurer l’impact des conditions météo sur la mobilité. Mise en place d’un pipeline ELT sur Google Cloud Platform et création de dashboards Power BI pour transformer ces données en insights opérationnels.</p>
-      <p><strong>Bénéfice client :</strong> identification des périodes critiques et meilleure planification de l’offre de transport selon la météo.</p>
+        <p>J’ai conçu et déployé un pipeline analytique complet sur Google Cloud Platform permettant d’automatiser la collecte, la structuration et le traitement de plus de 100 millions de courses de taxi couplées aux données météo. Ce processus ELT robuste garantit la qualité et la fraîcheur des données à chaque étape.
+
+Grâce à une organisation optimisée des données dans BigQuery et un nettoyage automatisé, j’ai structuré une base fiable et scalable, facilitant les analyses en continu.
+
+Le tableau de bord Power BI interactif, connecté en temps réel, offre aux décideurs une visibilité précise sur l’impact des conditions météorologiques sur la demande, leur permettant d’ajuster efficacement l’offre de transport et d’optimiser les ressources.</p>
+      <p><strong>Bénéfice client :</strong> </p>
+      <ul>
+      <li>Automatisation complète pour un suivi régulier et sans erreur</li>
+      <li>Données propres et bien organisées pour des analyses précises</li>
+      <li>Insights exploitables pour anticiper les pics d’activité liés à la météo</li>
+      </ul>
     </div>
 
     <div class="project-card">
