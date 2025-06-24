@@ -109,11 +109,11 @@ body {
           <img src="{{ '/assets/video_dashboard.gif' | relative_url }}" alt="Démonstration Tableau de Bord Power BI Chantier">
           <p>Création d’un tableau de bord interactif sous Power BI pour le pilotage opérationnel d’une entreprise du secteur des chantiers. À partir d’un fichier de données fictives, ce dashboard transforme des indicateurs bruts en analyses lisibles et visuelles pour un suivi métier au quotidien :</p>
           <ul>
-            <li>Analyse globale : suivi du chiffre d’affaires, rentabilité et portefeuille client sur les 12 derniers mois</li>
+            <li>Analyse globale : suivi du CA, rentabilité et portefeuille client </li>
             <li>Analyse rentabilité chantier : identification des projets les plus performants par marge, CA et productivité</li>
-            <li>Analyse clients : suivi des meilleurs clients, des retards de paiement et du taux de fidélisation</li>
+            <li>Analyse clients : suivi des meilleurs clients,  retards de paiement, taux de fidélisation</li>
             <li>Situation mensuelle : état d’avancement des chantiers en cours et des objectifs du mois</li>
-            <li>Page Q&A : interrogation du rapport en langage naturel et génération de visuels instantanés</li>
+            <li>Page Q&A : questions en langage naturel et génération de visuels instantanés</li>
           </ul>
           <p><strong>Bénéfice client :</strong> pilotage simplifié et décisionnel éclairé grâce à des indicateurs clairs, actualisés et adaptés à la réalité terrain des entreprises de chantier.</p>
     </div>
