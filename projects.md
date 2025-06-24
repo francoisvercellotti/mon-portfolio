@@ -123,11 +123,11 @@ body {
       <img src="{{ '/assets/screencast.gif' | relative_url }}" alt="Démonstration Tableau de Bord olist">
       <p>Développement d’un écosystème data combinant base de données optimisée et tableau de bord interactif pour offrir aux équipes pilotage et marketing une vision claire de la performance commerciale et des comportements clients :</p>
       <ul>
-        <li>Identification des segments clients à fort potentiel et des clients à risque pour cibler efficacement les actions commerciales.</li>
+        <li>Identification des segments clients à fort potentiel et des clients à risque .</li>
         <li>Analyse détaillée du comportement des acheteurs : fréquence d’achat, panier moyen, taux de réachat et évolution des habitudes.</li>
         <li>Prévisions de ventes et anticipation des pics d’activité grâce à l’analyse des tendances et comportements saisonniers.</li>
-        <li>Suivi  des performances vendeurs et des délais logistiques pour piloter l’activité et ajuster les priorités opérationnelles.</li>
-        <li>Visualisation des indicateurs clés via des dashboards interactifs et intuitifs facilitant la prise de décision rapide et éclairée.</li>
+        <li>Suivi des performances vendeurs et des délais logistiques pour piloter l’activité et ajuster les priorités.</li>
+        <li>Visualisation des indicateurs clés via des dashboards interactifs pour une prise de décision rapide et éclairée.</li>
       </ul>
       <p><strong>Bénéfice client :</strong> un outil stratégique pour booster la rentabilité, réduire le churn et fluidifier la gestion opérationnelle de la marketplace.</p>
     </div>
