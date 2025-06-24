@@ -121,7 +121,7 @@ body {
     <div class="project-card">
       <h3><a href="https://github.com/francoisvercellotti/Ecommerce_bresilien_analysis.git">Analyse avancée des données transactionnelles d'une marketplace via un tableau de bord interactif.</a></h3>
       <img src="{{ '/assets/screencast.gif' | relative_url }}" alt="Démonstration Tableau de Bord olist">
-      <p>Conception d’un outil analytique complet permettant aux équipes de pilotage et marketing d’optimiser la gestion client et la performance commerciale :</p>
+      <p>Développement d’un écosystème data combinant base de données optimisée et tableau de bord interactif pour offrir aux équipes pilotage et marketing une vision claire de la performance commerciale et des comportements clients :</p>
       <ul>
         <li>Identification des segments clients à fort potentiel et des clients à risque pour cibler efficacement les actions commerciales.</li>
         <li>Analyse détaillée du comportement des acheteurs : fréquence d’achat, panier moyen, taux de réachat et évolution des habitudes.</li>
