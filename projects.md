@@ -105,12 +105,12 @@ body {
 <div class="project-container">
 
     <div class="project-card">
-          <h3><a href="https://github.com/francoisvercellotti/powerbi-chantier-dashboard">Tableau de Bord Power BI pour le Pilotage d’Activité Chantier</a></h3>
+          <h3><a href="https://github.com/francoisvercellotti/powerbi-chantier-dashboard">Tableau de Bord Power BI pour un suivi complet de l'activité commerciale et opérationnelle </a></h3>
           <img src="{{ '/assets/video_dashboard.gif' | relative_url }}" alt="Démonstration Tableau de Bord Power BI Chantier">
-          <p>Création d’un tableau de bord interactif sous Power BI pour le pilotage opérationnel d’une entreprise du secteur des chantiers. À partir d’un fichier de données fictives, ce dashboard transforme des indicateurs bruts en analyses lisibles et visuelles pour un suivi métier au quotidien :</p>
+          <p>Création d’un tableau de bord interactif sous Power BI pour le pilotage opérationnel d’une entreprise du secteur des chantiers. À partir de fichiers Excel, ce dashboard transforme des données brutes en indicateurs précieux:</p>
           <ul>
             <li>Analyse globale : suivi du CA, rentabilité et portefeuille client </li>
-            <li>Analyse rentabilité chantier : identification des projets les plus performants par marge, CA et productivité</li>
+            <li>Analyse rentabilité chantier : performance des projets par marge, CA et productivité</li>
             <li>Analyse clients : suivi des meilleurs clients,  retards de paiement, taux de fidélisation</li>
             <li>Situation mensuelle : état d’avancement des chantiers et objectifs du mois</li>
             <li>Page Q&A : questions en langage naturel et génération de visuels instantanés</li>
