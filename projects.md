@@ -112,7 +112,7 @@ body {
             <li>Analyse globale : suivi du CA, rentabilité et portefeuille client </li>
             <li>Analyse rentabilité chantier : identification des projets les plus performants par marge, CA et productivité</li>
             <li>Analyse clients : suivi des meilleurs clients,  retards de paiement, taux de fidélisation</li>
-            <li>Situation mensuelle : état d’avancement des chantiers en cours et des objectifs du mois</li>
+            <li>Situation mensuelle : état d’avancement des chantiers et objectifs du mois</li>
             <li>Page Q&A : questions en langage naturel et génération de visuels instantanés</li>
           </ul>
           <p><strong>Bénéfice client :</strong> pilotage simplifié et décisionnel éclairé grâce à des indicateurs clairs, actualisés et adaptés à la réalité terrain des entreprises de chantier.</p>
