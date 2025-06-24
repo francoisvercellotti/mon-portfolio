@@ -103,6 +103,20 @@ body {
 </head>
 <body>
 <div class="project-container">
+
+    <div class="project-card">
+          <h3><a href="https://github.com/francoisvercellotti/powerbi-chantier-dashboard">Tableau de Bord Power BI pour le Pilotage d’Activité Chantier</a></h3>
+          <img src="{{ '/assets/video_dashboard.gif' | relative_url }}" alt="Démonstration Tableau de Bord Power BI Chantier">
+          <p>Création d’un tableau de bord interactif sous Power BI pour le pilotage opérationnel d’une entreprise du secteur des chantiers. À partir d’un fichier de données fictives, ce dashboard transforme des indicateurs bruts en analyses lisibles et visuelles pour un suivi métier au quotidien :</p>
+          <ul>
+            <li>Analyse globale : suivi du chiffre d’affaires, rentabilité et portefeuille client sur les 12 derniers mois</li>
+            <li>Analyse rentabilité chantier : identification des projets les plus performants par marge, CA et productivité</li>
+            <li>Analyse clients : suivi des meilleurs clients, des retards de paiement et du taux de fidélisation</li>
+            <li>Situation mensuelle : état d’avancement des chantiers en cours et des objectifs du mois</li>
+            <li>Page Q&A : interrogation du rapport en langage naturel et génération de visuels instantanés</li>
+          </ul>
+          <p><strong>Bénéfice client :</strong> pilotage simplifié et décisionnel éclairé grâce à des indicateurs clairs, actualisés et adaptés à la réalité terrain des entreprises de chantier.</p>
+    </div>
     
     <div class="project-card">
       <h3><a href="https://github.com/francoisvercellotti/Ecommerce_bresilien_analysis.git">Analyse avancée des données transactionnelles d'une marketplace via un tableau de bord interactif.</a></h3>
@@ -117,14 +131,6 @@ body {
       <p><strong>Bénéfice client :</strong> un outil stratégique pour booster la rentabilité, réduire le churn et fluidifier la gestion opérationnelle de la marketplace.</p>
     </div>
   
-    <div class="project-card">
-          <h3><a href="https://github.com/francoisvercellotti/prediction_donnees_immobilieres.git">Application de prédiction de Prix Immobiliers : Gagnez en Précision et en Argumentaire Commercial</a></h3>
-          <img src="{{ '/assets/demo.gif' | relative_url }}" alt="application prédiction">
-            <p>J’ai développé une application d’aide à l’estimation immobilière à destination des agences et investisseurs. Basée sur un modèle de machine learning entraîné sur des données transactionnelles, l’application prédit le prix des biens selon leurs caractéristiques et localisations.  
-      L’outil intègre également des visualisations explicatives pour justifier chaque estimation, améliorant la transparence et la confiance des utilisateurs.</p>
-      <p><strong>Bénéfice client :</strong> gain de temps pour les estimations, meilleur argumentaire commercial et anticipation des évolutions de prix.</p>
-    </div>
-
      <div class="project-card">
             <h3><a href="https://github.com/francoisvercellotti/bigquery_taxi_trips_analytics.git">Analyse des trajets de taxis & de l'impact météo à NYC : pipeline GCP & dashboard Power BI</a></h3>
           <img src="https://raw.githubusercontent.com/francoisvercellotti/mon-portfolio/bbb609dd4acd9660da71728c214866784fc6c315/assets/screencast_dashboard.gif" alt="Projet GCP/PowerBI analytics">
@@ -133,6 +139,15 @@ body {
       <p><strong>Bénéfice client :</strong> </p>
       Suivi régulier et fiable grâce à une automatisation du processus, des données structurées pour des analyses précises, et des insights clairs permettant d’anticiper les pics d’activité liés à la météo.
     </div>
+
+    <div class="project-card">
+              <h3><a href="https://github.com/francoisvercellotti/prediction_donnees_immobilieres.git">Application de prédiction de Prix Immobiliers : Gagnez en Précision et en Argumentaire Commercial</a></h3>
+              <img src="{{ '/assets/demo.gif' | relative_url }}" alt="application prédiction">
+                <p>J’ai développé une application d’aide à l’estimation immobilière à destination des agences et investisseurs. Basée sur un modèle de machine learning entraîné sur des données transactionnelles, l’application prédit le prix des biens selon leurs caractéristiques et localisations.  
+          L’outil intègre également des visualisations explicatives pour justifier chaque estimation, améliorant la transparence et la confiance des utilisateurs.</p>
+          <p><strong>Bénéfice client :</strong> gain de temps pour les estimations, meilleur argumentaire commercial et anticipation des évolutions de prix.</p>
+    </div>
+
 
     <div class="project-card">
     <h3><a href="https://github.com/francoisvercellotti/instacart-analysis-shiny.git">Application Interactive d’Analyse des Comportements d’Achat d'une Marketplace</a></h3>
@@ -171,13 +186,6 @@ body {
         <img src="https://github.com/user-attachments/assets/ba340984-40f8-4c79-94de-d1440ec1b200" alt="Projet E-commerce">
         <p>Analyse des performances commerciales d’une librairie en ligne à travers des indicateurs de ventes, clients et marges. Détection des produits à forte valeur et recommandations pour optimiser la stratégie marketing.</p>
       <p><strong>Bénéfice client :</strong> amélioration de la rentabilité et optimisation des campagnes promotionnelles.</p>
-    </div>
-
-    <div class="project-card">
-        <h3><a href="https://github.com/francoisvercellotti/reporting_powerbi_multinationale.git">Dashboard de suivi projet et performance</a></h3>
-        <img src="https://github.com/user-attachments/assets/81369059-b40c-42fc-a0dd-23c2372a9989" alt="Projet Reporting">
-          <p>Développement pour Sanitoral d’un tableau de bord de suivi projet et financier. Centralisation des données, suivi des coûts et délais, identification des écarts et génération d’indicateurs de pilotage pour le comité de direction.</p>
-      <p><strong>Bénéfice client :</strong> meilleure maîtrise budgétaire et réduction des risques projets.</p>
     </div>
 
      <div class="project-card">
