@@ -136,6 +136,13 @@ body {
           <img src="https://raw.githubusercontent.com/francoisvercellotti/mon-portfolio/bbb609dd4acd9660da71728c214866784fc6c315/assets/screencast_dashboard.gif" alt="Projet GCP/PowerBI analytics">
 
         <p>Automatisation d'un pipeline ELT complet sur Google Cloud Platform pour collecter, structurer et traiter plus de 100 millions de courses de taxi couplées aux données météo. Grâce à une base fiable et scalable dans BigQuery, un tableau de bord Power BI interactif permet aux décideurs de suivre en temps réel l’impact météo sur la demande et d’ajuster l’offre de transport efficacement.</p>
+      <ul>
+        <li>Collecte automatisée des données courses taxi et météo via Airflow et stockage partitionné sur Google Cloud Storage</li>
+        <li>Ingestion, transformation et modélisation des données massives sous BigQuery avec dbt</li>
+        <li>Mise en place de tests qualité automatisés : valeurs nulles, doublons, types et valeurs acceptées</li>
+        <li>Jointure spatio-temporelle entre données de courses et observations météo horaires pour analyses croisées</li>
+        <li>Restitution des insights via un tableau de bord Power BI interactif : analyses par période, localisation et conditions météo</li>
+      </ul>
       <p><strong>Bénéfice client :</strong> </p>
       Suivi régulier et fiable grâce à une automatisation du processus, des données structurées pour des analyses précises, et des insights clairs permettant d’anticiper les pics d’activité liés à la météo.
     </div>
