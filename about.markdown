@@ -10,12 +10,12 @@ permalink: /about/
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
-      background: linear-gradient(135deg, #cccccc, rgb(155, 231, 243));
+      background: #f2e8d5 !important;
       color: #333;
       margin: 0;
       font-family: 'Segoe UI', Arial, sans-serif;
     }
-
+    
     /* Conteneur principal */
     .about-container {
       display: flex;
@@ -23,12 +23,12 @@ permalink: /about/
       gap: 40px;
       margin: 20px auto;
       max-width: 1200px;
-      background: rgba(255, 255, 255, 0.1);
+      background: rgba(255, 255, 255, 0.15);
       padding: 30px;
       border-radius: 15px;
       box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     }
-
+    
     /* Colonne de gauche */
     .sidebar {
       flex: 1;
@@ -37,7 +37,7 @@ permalink: /about/
       margin-top: 45px;
       border-right: 2px solid rgba(18, 17, 17, 0.1);
     }
-
+    
     .sidebar-section {
       margin-bottom: 30px;
       padding: 15px;
@@ -51,7 +51,7 @@ permalink: /about/
     .sidebar-section h3 {
       font-size: 1.3em;
       margin-bottom: 15px;
-      color: #1a1a1a;
+      color: #2c5282;
       border-bottom: 2px solid rgba(0, 0, 0, 0.1);
       padding-bottom: 5px;
     }
@@ -72,7 +72,7 @@ permalink: /about/
     .sidebar-section ul li strong {
       color: #2c5282;
     }
-
+    
     /* Contenu principal */
     .about-content {
       flex: 2;
@@ -96,6 +96,7 @@ permalink: /about/
       padding: 5px 10px;
       margin: 5px -10px;
     }
+
 
     /* RESPONSIVE DESIGN */
     @media (max-width: 768px) {
