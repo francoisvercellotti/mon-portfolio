@@ -179,7 +179,7 @@ permalink: /about/
   <h1 style="color: #2c5282; font-size: 2.5em; margin: 0; font-weight: bold;">
     Pilotez votre PME avec un Data Analyst Freelance Expert Power BI
   </h1>
-  <p style="color: #2c5282; font-size: 2em; margin: 0; font-weight: bold;">
+  <p style="color: #2c5282; font-size: 2em; margin: 0;">
     Découvrez mon approche et les solutions que je propose
   </p>
 </div>
