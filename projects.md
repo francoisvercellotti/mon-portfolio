@@ -105,7 +105,7 @@ body {
 <div class="project-container">
 
     <div class="project-card">
-      <h3><a href="https://github.com/francoisvercellotti/powerbi_chantier_dashboard.git">Tableau de Bord Power BI pour un suivi complet de l'activité commerciale et opérationnelle </a></h3>
+      <h3><a href="https://github.com/francoisvercellotti/powerbi_chantier_dashboard">Tableau de Bord Power BI pour un suivi complet de l'activité commerciale et opérationnelle </a></h3>
       <img src="{{ '/assets/video_dashboard.gif' | relative_url }}" alt="Démonstration Tableau de Bord Power BI Chantier">
       <p>Création d’un tableau de bord interactif sous Power BI pour le pilotage opérationnel d’une entreprise du secteur des chantiers. À partir de fichiers Excel, ce dashboard transforme des données brutes en indicateurs précieux:</p>
       <ul>
