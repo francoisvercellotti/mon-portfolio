@@ -58,7 +58,6 @@ h1.page-title,
   </h1>
 </div>
 <div class="article-list">
-  <h1>{{ page.page_title }}</h1>
   <ul>
     <li>
       <a href="{{ '/articles/power-bi-pme' | relative_url }}">
