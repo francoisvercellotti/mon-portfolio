@@ -55,7 +55,7 @@ h1.page-title,
   <h1 style="font-size: 22px; color: #007BFF; font-weight: bold;">
     Mes articles sur la Business Intelligence et l'Analyse de Données
   </h1>
-  <p style="color: #2c5282; font-size: 2em; margin: 0; font-weight: bold;">
+  <p style="color: #2c5282; font-size: 2.5em; margin: 0;">
      Mes articles sur la Business Intelligence et l'Analyse de Données
   </p>
 </div>
