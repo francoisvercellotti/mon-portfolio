@@ -7,6 +7,14 @@ permalink: /projects/
 ---
 
 <style>
+/* Masquer le titre automatique de Jekyll */
+.page-header h1:first-of-type,
+h1.page-title,
+.post-title,
+.entry-title {
+  display: none !important;
+}
+
 body {
   background: #f2e8d5 !important;
   color: #333 !important;
@@ -114,12 +122,12 @@ body {
     <div class="project-card">
       <h3><a href="https://github.com/francoisvercellotti/powerbi_dashboard_chantier.git">Tableau de Bord Power BI pour un suivi complet de l'activité commerciale et opérationnelle </a></h3>
       <img src="{{ '/assets/video_dashboard.gif' | relative_url }}" alt="Démonstration Tableau de Bord Power BI Chantier">
-      <p>Création d’un tableau de bord interactif sous Power BI pour le pilotage opérationnel d’une entreprise du secteur des chantiers. À partir de fichiers Excel, ce dashboard transforme des données brutes en indicateurs précieux:</p>
+      <p>Création d'un tableau de bord interactif sous Power BI pour le pilotage opérationnel d'une entreprise du secteur des chantiers. À partir de fichiers Excel, ce dashboard transforme des données brutes en indicateurs précieux:</p>
       <ul>
         <li>Analyse globale : suivi du CA, rentabilité et portefeuille client </li>
         <li>Analyse rentabilité chantier : performance des projets par marge, CA et productivité</li>
         <li>Analyse clients : suivi des meilleurs clients,  retards de paiement, taux de fidélisation</li>
-        <li>Situation mensuelle : état d’avancement des chantiers et objectifs du mois</li>
+        <li>Situation mensuelle : état d'avancement des chantiers et objectifs du mois</li>
         <li>Page Q&A : questions en langage naturel et génération de visuels instantanés</li>
       </ul>
       <p><strong>Bénéfice client :</strong> pilotage simplifié et décisionnel éclairé grâce à des indicateurs clairs, actualisés et adaptés à la réalité terrain des entreprises de chantier.</p>
@@ -128,12 +136,12 @@ body {
     <div class="project-card">
       <h3><a href="https://github.com/francoisvercellotti/Ecommerce_bresilien_analysis.git">Analyse avancée des données transactionnelles d'une marketplace via un tableau de bord interactif.</a></h3>
       <img src="{{ '/assets/screencast.gif' | relative_url }}" alt="Démonstration Tableau de Bord olist">
-      <p>Développement d’un écosystème data combinant base de données optimisée et tableau de bord interactif pour offrir aux équipes pilotage et marketing une vision claire de la performance commerciale et des comportements clients :</p>
+      <p>Développement d'un écosystème data combinant base de données optimisée et tableau de bord interactif pour offrir aux équipes pilotage et marketing une vision claire de la performance commerciale et des comportements clients :</p>
       <ul>
         <li>Identification des segments clients à fort potentiel et des clients à risque .</li>
-        <li>Analyse détaillée du comportement des acheteurs : fréquence d’achat, panier moyen, taux de réachat et évolution des habitudes.</li>
-        <li>Prévisions de ventes et anticipation des pics d’activité grâce à l’analyse des tendances et comportements saisonniers.</li>
-        <li>Suivi des performances vendeurs et des délais logistiques pour piloter l’activité et ajuster les priorités.</li>
+        <li>Analyse détaillée du comportement des acheteurs : fréquence d'achat, panier moyen, taux de réachat et évolution des habitudes.</li>
+        <li>Prévisions de ventes et anticipation des pics d'activité grâce à l'analyse des tendances et comportements saisonniers.</li>
+        <li>Suivi des performances vendeurs et des délais logistiques pour piloter l'activité et ajuster les priorités.</li>
         <li>Visualisation des indicateurs clés via des dashboards interactifs pour une prise de décision rapide et éclairée.</li>
       </ul>
       <p><strong>Bénéfice client :</strong> un outil stratégique pour booster la rentabilité, réduire le churn et fluidifier la gestion opérationnelle de la marketplace.</p>
@@ -152,38 +160,38 @@ body {
         <li>Restitution  via un tableau de bord Power BI interactif : analyses par période, localisation et conditions météo</li>
       </ul>
       <p><strong>Bénéfice client :</strong> </p>
-      Suivi régulier et fiable grâce à une automatisation du processus, des données structurées pour des analyses précises, et des insights clairs permettant d’anticiper les pics d’activité liés à la météo.
+      Suivi régulier et fiable grâce à une automatisation du processus, des données structurées pour des analyses précises, et des insights clairs permettant d'anticiper les pics d'activité liés à la météo.
     </div>
 
     <div class="project-card">
               <h3><a href="https://github.com/francoisvercellotti/prediction_donnees_immobilieres.git">Application de prédiction de Prix Immobiliers : Gagnez en Précision et en Argumentaire Commercial</a></h3>
               <img src="{{ '/assets/demo.gif' | relative_url }}" alt="application prédiction">
-                <p>J’ai développé une application d’aide à l’estimation immobilière à destination des agences et investisseurs. Basée sur un modèle de machine learning entraîné sur des données transactionnelles, l’application prédit le prix des biens selon leurs caractéristiques et localisations.  
-          L’outil intègre également des visualisations explicatives pour justifier chaque estimation, améliorant la transparence et la confiance des utilisateurs.</p>
+                <p>J'ai développé une application d'aide à l'estimation immobilière à destination des agences et investisseurs. Basée sur un modèle de machine learning entraîné sur des données transactionnelles, l'application prédit le prix des biens selon leurs caractéristiques et localisations.  
+          L'outil intègre également des visualisations explicatives pour justifier chaque estimation, améliorant la transparence et la confiance des utilisateurs.</p>
           <p><strong>Bénéfice client :</strong> gain de temps pour les estimations, meilleur argumentaire commercial et anticipation des évolutions de prix.</p>
     </div>
 
 
     <div class="project-card">
-    <h3><a href="https://github.com/francoisvercellotti/instacart-analysis-shiny.git">Application Interactive d’Analyse des Comportements d’Achat d'une Marketplace</a></h3>
+    <h3><a href="https://github.com/francoisvercellotti/instacart-analysis-shiny.git">Application Interactive d'Analyse des Comportements d'Achat d'une Marketplace</a></h3>
     <img src="{{ '/assets/screencast_appli-gif.gif' | relative_url }}" alt="Démonstration Tableau de Bord Instacart">
-    <p>Conception d’une application Shiny interactive dédiée à l’analyse des comportements d’achat sur la marketplace Instacart. L’outil explore les habitudes de commande et préférences clients via des dashboards dynamiques intégrant :</p>
+    <p>Conception d'une application Shiny interactive dédiée à l'analyse des comportements d'achat sur la marketplace Instacart. L'outil explore les habitudes de commande et préférences clients via des dashboards dynamiques intégrant :</p>
     <ul>
       <li>Statistiques globales sur les commandes, utilisateurs et produits</li>
       <li>Analyses temporelles (jour, heure, heatmap des commandes)</li>
       <li>Étude des produits les plus commandés et des taux de réachat</li>
-      <li>Analyse des tailles de panier selon le moment d’achat</li>
-      <li>Système de recommandations personnalisées basé sur l’historique et les catégories de produits</li>
+      <li>Analyse des tailles de panier selon le moment d'achat</li>
+      <li>Système de recommandations personnalisées basé sur l'historique et les catégories de produits</li>
     </ul>
-    <p><strong>Bénéfice client :</strong> optimisation des recommandations produits et ajustement des actions marketing selon les profils et habitudes d’achat des clients.</p>
+    <p><strong>Bénéfice client :</strong> optimisation des recommandations produits et ajustement des actions marketing selon les profils et habitudes d'achat des clients.</p>
     </div>
 
     <div class="project-card">
-      <h3><a href="https://github.com/francoisvercellotti/tableau_bord_acces_eau_potable.git">Tableau de bord stratégique pour améliorer l’accès à l’eau potable dans les zones vulnérables</a></h3>
+      <h3><a href="https://github.com/francoisvercellotti/tableau_bord_acces_eau_potable.git">Tableau de bord stratégique pour améliorer l'accès à l'eau potable dans les zones vulnérables</a></h3>
       <img src="https://github.com/user-attachments/assets/f5343c5d-40a3-44be-996f-e5f2a79753ea" alt="Projet Eau Potable">
-      <p>Face aux défis croissants de l’accès à l’eau potable, j’ai accompagné l’ONG DWFA (fictif) dans la création d’un outil visuel puissant qui transforme des données complexes en décisions concrètes.</p>
-      <p>Ce tableau de bord interactif offre une vue claire et précise des besoins à différentes échelles géographiques, permettant aux équipes de terrain de cibler rapidement les zones les plus vulnérables et d’adapter leurs actions en temps réel.</p>
-      <p><strong>Bénéfice client :</strong> un pilotage éclairé et agile des ressources, maximisant l’impact des interventions humanitaires pour sauver des vies et améliorer les conditions d’accès à l’eau.</p>
+      <p>Face aux défis croissants de l'accès à l'eau potable, j'ai accompagné l'ONG DWFA (fictif) dans la création d'un outil visuel puissant qui transforme des données complexes en décisions concrètes.</p>
+      <p>Ce tableau de bord interactif offre une vue claire et précise des besoins à différentes échelles géographiques, permettant aux équipes de terrain de cibler rapidement les zones les plus vulnérables et d'adapter leurs actions en temps réel.</p>
+      <p><strong>Bénéfice client :</strong> un pilotage éclairé et agile des ressources, maximisant l'impact des interventions humanitaires pour sauver des vies et améliorer les conditions d'accès à l'eau.</p>
     </div>
 
 
@@ -191,15 +199,15 @@ body {
     <div class="project-card">
         <h3><a href="https://github.com/francoisvercellotti/analyse_marche_developpement_international.git">Étude de marché pour le développement international d'une filière bio</a></h3>
         <img src="{{ '/image_cluster.png' | relative_url }}" alt="Projet Exportation">
-        <p>Identification des zones de développement stratégique à l’international pour une filière de volaille bio. Le projet a consisté à segmenter les pays selon des indicateurs économiques, environnementaux et de consommation, afin de détecter les marchés à fort potentiel et d’écarter ceux présentant des risques ou des freins réglementaires.
-    L’analyse a permis de prioriser les destinations export et de formuler des recommandations concrètes pour adapter la stratégie de déploiement à l’international.</p>
+        <p>Identification des zones de développement stratégique à l'international pour une filière de volaille bio. Le projet a consisté à segmenter les pays selon des indicateurs économiques, environnementaux et de consommation, afin de détecter les marchés à fort potentiel et d'écarter ceux présentant des risques ou des freins réglementaires.
+    L'analyse a permis de prioriser les destinations export et de formuler des recommandations concrètes pour adapter la stratégie de déploiement à l'international.</p>
         <p><strong>Bénéfice client :</strong>  ciblage de marchés pertinents, réduction des risques liés aux implantations et meilleure allocation des ressources commerciales.</p>
     </div>
 
     <div class="project-card">
         <h3><a href="https://github.com/francoisvercellotti/analyse_ventes_e-commerce.git">Analyse des ventes d'un e-commerce</a></h3>
         <img src="https://github.com/user-attachments/assets/ba340984-40f8-4c79-94de-d1440ec1b200" alt="Projet E-commerce">
-        <p>Analyse des performances commerciales d’une librairie en ligne à travers des indicateurs de ventes, clients et marges. Détection des produits à forte valeur et recommandations pour optimiser la stratégie marketing.</p>
+        <p>Analyse des performances commerciales d'une librairie en ligne à travers des indicateurs de ventes, clients et marges. Détection des produits à forte valeur et recommandations pour optimiser la stratégie marketing.</p>
       <p><strong>Bénéfice client :</strong> amélioration de la rentabilité et optimisation des campagnes promotionnelles.</p>
     </div>
 
@@ -212,4 +220,3 @@ body {
    
 </div>
 </body>
-
