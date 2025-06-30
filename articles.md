@@ -7,7 +7,14 @@ permalink: /articles/
 ---
 
 <style>
-.article-list {
+/* Masquer le titre automatique de Jekyll */
+.page-header h1:first-of-type,
+h1.page-title,
+.post-title,
+.entry-title {
+  display: none !important;
+}
+  .article-list {
   max-width: 800px;
   margin: 50px auto;
   padding: 0 20px;
@@ -46,7 +53,7 @@ permalink: /articles/
 
 <body>
 <div class="page-header" style="text-align: center; padding: 40px 0 20px 0; background: #f2e8d5;">
-  <h1 style="color: #2c5282; font-size: 2.5em; margin: 0; font-weight: bold;">
+  <h1 style="font-size: 22px; color: #007BFF; font-weight: bold;">
     Mes articles sur la Business Intelligence et l'Analyse de Données
   </h1>
 </div>
