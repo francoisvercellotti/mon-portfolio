@@ -1,11 +1,10 @@
 ---
 layout: page
-title: ""
+title: "Projets Data Analyst Freelance | François Vercellotti"
+description: "Découvrez mes projets concrets en data analyse, reporting Power BI et tableaux de bord sur-mesure pour PME et startups."
 permalink: /projects/
 ---
 
-<html>
-<head>
 <style>
 body {
   background: #f2e8d5 !important;
