@@ -114,7 +114,7 @@ body {
     Mes Projets Data Analyst
   </h1>
   <p style="color: #2c5282; font-size: 2.5em; margin: 0; font-weight: bold;">
-    Découvrez mes réalisations concrètes en BI et reporting automatisé
+    Découvrez mes réalisations en BI et reporting automatisé
   </p>
 
 </div>
