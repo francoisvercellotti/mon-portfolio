@@ -100,7 +100,15 @@ body {
 }
 </style>
 <body>
-<div class="project-container">
+<div class="page-header" style="text-align: center; padding: 40px 0 20px 0; background: #f2e8d5;">
+  <h1 style="color: #2c5282; font-size: 2.5em; margin: 0; font-weight: bold;">
+    Mes Projets Data Analyst
+  </h1>
+  <p style="color: #555; font-size: 1.2em; margin: 10px 0 0 0;">
+    Découvrez mes réalisations concrètes en BI et reporting automatisé
+  </p>
+</div>
+  <div class="project-container">
 
     <div class="project-card">
       <h3><a href="https://github.com/francoisvercellotti/powerbi_dashboard_chantier.git">Tableau de Bord Power BI pour un suivi complet de l'activité commerciale et opérationnelle </a></h3>
