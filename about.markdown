@@ -167,7 +167,6 @@ permalink: /about/
       }
     }
   </style>
-</head>
 <body>
 
 <div class="about-container">
@@ -235,4 +234,4 @@ permalink: /about/
   
 </div>
 </body>
-</html>
+
