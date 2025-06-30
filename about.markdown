@@ -6,6 +6,13 @@ permalink: /about/
 ---
 
   <style>
+  /* Masquer le titre automatique de Jekyll */
+  .page-header h1:first-of-type,
+  h1.page-title,
+  .post-title,
+  .entry-title {
+    display: none !important;
+  }
     body {
       background: #f2e8d5 !important;
       color: #333;
@@ -172,7 +179,7 @@ permalink: /about/
   <h1 style="color: #2c5282; font-size: 2.5em; margin: 0; font-weight: bold;">
     Pilotez votre PME avec un Data Analyst Freelance Expert Power BI
   </h1>
-  <p style="color: #555; font-size: 1.2em; margin: 10px 0 0 0;">
+  <p style="color: #2c5282; font-size: 2.5em; margin: 0; font-weight: bold;">
     Découvrez mon approche et les solutions que je propose
   </p>
 </div>
