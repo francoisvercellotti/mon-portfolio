@@ -113,7 +113,7 @@ body {
   <h1 style="color: #2c5282; font-size: 2.5em; margin: 0; font-weight: bold;">
     Mes Projets Data Analyst
   </h1>
-  <p style="color: #2c5282; font-size: 2em; margin: 0; font-weight: bold;">
+  <p style="color: #2c5282; font-size: 2em; margin: 0;">
     Découvrez mes réalisations en BI et reporting automatisé
   </p>
 
