@@ -9,7 +9,7 @@ permalink: /
   <meta charset="UTF-8">
   <style>
     body {
-      background: #fffef8 !important;
+      background: ##f2e8d5 !important;
       color: #333 !important;
       margin: 0;
       font-family: 'Segoe UI', Arial, sans-serif;
