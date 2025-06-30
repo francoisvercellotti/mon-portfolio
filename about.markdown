@@ -168,7 +168,14 @@ permalink: /about/
     }
   </style>
 <body>
-
+<div class="page-header" style="text-align: center; padding: 40px 0 20px 0; background: #f2e8d5;">
+  <h1 style="color: #2c5282; font-size: 2.5em; margin: 0; font-weight: bold;">
+    Pilotez votre PME avec un Data Analyst Freelance Expert Power BI
+  </h1>
+  <p style="color: #555; font-size: 1.2em; margin: 10px 0 0 0;">
+    Découvrez mon approche et les solutions que je propose
+  </p>
+</div>
 <div class="about-container">
 
   <!-- Colonne de gauche -->
