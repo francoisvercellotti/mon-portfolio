@@ -8,7 +8,7 @@ permalink: /projects/
 <head>
 <style>
 body {
-  background: linear-gradient(135deg, #cccccc,rgb(155, 231, 243));
+  background: #f2e8d5;
   color: #333;
   margin: 0;
   font-family: 'Segoe UI', Arial, sans-serif;
@@ -24,9 +24,9 @@ body {
   margin: 0 auto;
 }
 
-/* Carte de projet avec style amélioré */
+/* Carte de projet */
 .project-card {
-  background: rgba(255, 255, 255, 0.9);
+  background: #ffffff;
   border-radius: 15px;
   padding: 20px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
