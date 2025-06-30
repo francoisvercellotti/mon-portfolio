@@ -2,7 +2,9 @@
 layout: page
 title: "Pilotez votre PME avec un Data Analyst Freelance Expert Power BI - François Vercellotti"
 description: "Découvrez mon approche en tant que Data Analyst Freelance : structuration de données, reporting Power BI et création de dashboards pour PME et startups."
-permalink: /about/
+permalink: /data-analyst-freelance-expertise/
+redirect_from:
+  - /about/
 ---
 
   <style>
