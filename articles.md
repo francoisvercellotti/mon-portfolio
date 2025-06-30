@@ -44,6 +44,12 @@ permalink: /articles/
 }
 </style>
 
+<body>
+<div class="page-header" style="text-align: center; padding: 40px 0 20px 0; background: #f2e8d5;">
+  <h1 style="color: #2c5282; font-size: 2.5em; margin: 0; font-weight: bold;">
+    Mes articles sur la Business Intelligence et l'Analyse de Données
+  </h1>
+</div>
 <div class="article-list">
   <h1>{{ page.page_title }}</h1>
   <ul>
@@ -55,3 +61,4 @@ permalink: /articles/
     <!-- Ajoute ici d'autres articles -->
   </ul>
 </div>
+<body>
