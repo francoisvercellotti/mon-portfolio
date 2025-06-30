@@ -1,21 +1,10 @@
 ---
 layout: page
-title: "Articles sur la Business Intelligence et l'Analyse de Données"
+title: "Articles Business Intelligence & Data Analyse | François Vercellotti"  # titre SEO pour <title>
+page_title: "Mes articles sur la Business Intelligence et l'Analyse de Données"  # titre visible <h1>
 description: "Retrouvez mes articles dédiés à la data analyse, Power BI, reporting automatisé et aux bonnes pratiques pour PME et startups."
 permalink: /articles/
 ---
-
-<div class="article-list">
-  <h1>Mes Articles sur la Business Intelligence et l'Analyse de Données</h1>
-  <ul>
-    <li>
-      <a href="{{ '/articles/power-bi-pme' | relative_url }}">
-        Power BI PME : Comment les Petites et Moyennes Entreprises Optimisent leur Pilotage grâce à la Business Intelligence
-      </a>
-    </li>
-    <!-- Ajoute ici d'autres articles -->
-  </ul>
-</div>
 
 <style>
 .article-list {
@@ -55,4 +44,14 @@ permalink: /articles/
 }
 </style>
 
-
+<div class="article-list">
+  <h1>{{ page.page_title }}</h1>
+  <ul>
+    <li>
+      <a href="{{ '/articles/power-bi-pme' | relative_url }}">
+        Power BI PME : Comment les Petites et Moyennes Entreprises Optimisent leur Pilotage grâce à la Business Intelligence
+      </a>
+    </li>
+    <!-- Ajoute ici d'autres articles -->
+  </ul>
+</div>
