@@ -9,7 +9,7 @@ permalink: /
   <meta charset="UTF-8">
   <style>
     body {
-      background: #f2e8d5 !important;
+      background: #f5efe6 !important;
       color: #333 !important;
       margin: 0;
       font-family: 'Segoe UI', Arial, sans-serif;
@@ -38,7 +38,7 @@ permalink: /
     }
 
     .home-container a {
-      color: #2c5282;
+      color: #fffaf5;
       text-decoration: none;
       font-weight: bold;
     }
