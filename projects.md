@@ -105,17 +105,17 @@ body {
 <div class="project-container">
 
     <div class="project-card">
-          <h3><a href="https://github.com/francoisvercellotti/powerbi_chantier_dashboard.git">Tableau de Bord Power BI pour un suivi complet de l'activité commerciale et opérationnelle </a></h3>
-          <img src="{{ '/assets/video_dashboard.gif' | relative_url }}" alt="Démonstration Tableau de Bord Power BI Chantier">
-          <p>Création d’un tableau de bord interactif sous Power BI pour le pilotage opérationnel d’une entreprise du secteur des chantiers. À partir de fichiers Excel, ce dashboard transforme des données brutes en indicateurs précieux:</p>
-          <ul>
-            <li>Analyse globale : suivi du CA, rentabilité et portefeuille client </li>
-            <li>Analyse rentabilité chantier : performance des projets par marge, CA et productivité</li>
-            <li>Analyse clients : suivi des meilleurs clients,  retards de paiement, taux de fidélisation</li>
-            <li>Situation mensuelle : état d’avancement des chantiers et objectifs du mois</li>
-            <li>Page Q&A : questions en langage naturel et génération de visuels instantanés</li>
-          </ul>
-          <p><strong>Bénéfice client :</strong> pilotage simplifié et décisionnel éclairé grâce à des indicateurs clairs, actualisés et adaptés à la réalité terrain des entreprises de chantier.</p>
+      <h3><a href="https://github.com/francoisvercellotti/powerbi_chantier_dashboard.git">Tableau de Bord Power BI pour un suivi complet de l'activité commerciale et opérationnelle </a></h3>
+      <img src="{{ '/assets/video_dashboard.gif' | relative_url }}" alt="Démonstration Tableau de Bord Power BI Chantier">
+      <p>Création d’un tableau de bord interactif sous Power BI pour le pilotage opérationnel d’une entreprise du secteur des chantiers. À partir de fichiers Excel, ce dashboard transforme des données brutes en indicateurs précieux:</p>
+      <ul>
+        <li>Analyse globale : suivi du CA, rentabilité et portefeuille client </li>
+        <li>Analyse rentabilité chantier : performance des projets par marge, CA et productivité</li>
+        <li>Analyse clients : suivi des meilleurs clients,  retards de paiement, taux de fidélisation</li>
+        <li>Situation mensuelle : état d’avancement des chantiers et objectifs du mois</li>
+        <li>Page Q&A : questions en langage naturel et génération de visuels instantanés</li>
+      </ul>
+      <p><strong>Bénéfice client :</strong> pilotage simplifié et décisionnel éclairé grâce à des indicateurs clairs, actualisés et adaptés à la réalité terrain des entreprises de chantier.</p>
     </div>
     
     <div class="project-card">
