@@ -7,6 +7,8 @@ permalink: /
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
+  <title>Data Analyst Freelance | Reporting Power BI et Analyse Données PME</title>
+  <meta name="description" content="François Vercellotti, Data Analyst Freelance. J'aide PME et startups à structurer leurs données, automatiser leurs reporting Power BI et créer des dashboards interactifs. Contactez-moi.">
   <style>
     body {
       background: #f2e8d5 !important;
