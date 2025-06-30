@@ -8,8 +8,8 @@ permalink: /projects/
 <head>
 <style>
 body {
-  background: #f2e8d5;
-  color: #333;
+  background: #f2e8d5 !important;
+  color: #333 !important;
   margin: 0;
   font-family: 'Segoe UI', Arial, sans-serif;
 }
@@ -26,7 +26,7 @@ body {
 
 /* Carte de projet */
 .project-card {
-  background: #ffffff;
+  background: #ffffff !important;
   border-radius: 15px;
   padding: 20px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -55,13 +55,13 @@ body {
 }
 
 .project-card h3 a {
-  color: #2c5282;
+  color: #2c5282 !important;
   text-decoration: none;
   transition: color 0.2s ease;
 }
 
 .project-card h3 a:hover {
-  color: #1a365d;
+  color: #1a365d !important;
 }
 
 .project-card p {
