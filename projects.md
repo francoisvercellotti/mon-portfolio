@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Mes Projets Data Analyst Freelance : Reporting, Power BI & BI pour PME"
+page_title: "Mes Projets Data Analyst"
 description: "Découvrez mes projets concrets en data analyse, reporting automatisé et création de dashboards Power BI pour PME et startups. Inspirez-vous de mes réalisations et contactez-moi."
 permalink: /projects/
 ---
