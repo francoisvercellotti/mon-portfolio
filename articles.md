@@ -8,7 +8,7 @@ permalink: /articles/
 <head>
 <style>
 body {
-  background: linear-gradient(135deg, #cccccc,rgb(155, 231, 243));
+  background:  #f5efe6 !important;
   color: #333;
   margin: 0;
   font-family: 'Segoe UI', Arial, sans-serif;
