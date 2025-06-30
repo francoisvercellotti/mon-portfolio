@@ -44,7 +44,7 @@ body {
   color: #12263a;
 }
 </style>
-</head>
+
 
 <body>
 <div class="article-list">
@@ -54,4 +54,4 @@ body {
   </ul>
 </div>
 </body>
-</html>
+
