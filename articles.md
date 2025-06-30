@@ -1,11 +1,10 @@
 ---
 layout: page
-title: ""
+title: "Articles sur la Business Intelligence et l'Analyse de Données"
+description: "Retrouvez mes articles dédiés à la data analyse, Power BI, reporting automatisé et aux bonnes pratiques pour PME et startups."
 permalink: /articles/
 ---
 
-<html>
-<head>
 <style>
 body {
   background:  #f5efe6 !important;
