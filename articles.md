@@ -2,7 +2,9 @@
 layout: page
 title: "Articles Business Intelligence & Data Analyse | François Vercellotti"  # titre SEO pour <title>
 description: "Retrouvez mes articles dédiés à la data analyse, Power BI, reporting automatisé et aux bonnes pratiques pour PME et startups."
-permalink: /articles/
+permalink: /blog-business-intelligence/
+redirect_from:
+  - /articles/
 ---
 
 <style>
