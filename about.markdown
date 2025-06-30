@@ -1,13 +1,10 @@
 ---
 layout: page
-title: ""
+title: "Pourquoi collaborer avec un Data Analyst Freelance ? | François Vercellotti"
+description: "Découvrez mon approche en tant que Data Analyst Freelance : structuration de données, reporting Power BI et création de dashboards pour PME et startups."
 permalink: /about/
 ---
 
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
       background: #f2e8d5 !important;
