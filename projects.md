@@ -99,7 +99,6 @@ body {
   }
 }
 </style>
-</head>
 <body>
 <div class="project-container">
 
@@ -204,4 +203,4 @@ body {
    
 </div>
 </body>
-</html>
+
