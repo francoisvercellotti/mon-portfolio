@@ -22,3 +22,5 @@ navigation:
     url: /about/
   - title: "Découvrir mes projets data"
     url: /projects/
+  - title: "Articles"
+    url: /articles/
