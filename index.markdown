@@ -1,6 +1,7 @@
 ---
 layout: default
-title: ""
+title: "Data Analyst Freelance | Reporting Power BI et Analyse Données PME"
+description: "François Vercellotti, Data Analyst Freelance. J'aide PME et startups à structurer leurs données, automatiser leurs reporting Power BI et créer des dashboards interactifs. Contactez-moi."
 permalink: /
 ---
 
