@@ -1,0 +1,14 @@
+# Robots.txt pour francoisvercellotti.github.io
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://francoisvercellotti.github.io/mon-portfolio/sitemap.xml
+
+# Optimisations pour les moteurs de recherche
+Crawl-delay: 1
+
+# Bloquer les fichiers inutiles (si applicable)
+Disallow: /assets/
+Disallow: /*.json$
+Disallow: /*.xml$
