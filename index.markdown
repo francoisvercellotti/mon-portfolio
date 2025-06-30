@@ -9,8 +9,8 @@ permalink: /
   <meta charset="UTF-8">
   <style>
     body {
-      background: linear-gradient(135deg, #cccccc, rgb(155, 231, 243));
-      color: #f5f0e6;
+      background: #fffef8;
+      color: #333;
       margin: 0;
       font-family: 'Segoe UI', Arial, sans-serif;
     }
