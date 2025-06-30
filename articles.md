@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Articles Business Intelligence & Data Analyse | François Vercellotti"  # titre SEO pour <title>
-page_title: "Mes articles sur la Business Intelligence et l'Analyse de Données"  # titre visible <h1>
 description: "Retrouvez mes articles dédiés à la data analyse, Power BI, reporting automatisé et aux bonnes pratiques pour PME et startups."
 permalink: /articles/
 ---
@@ -56,6 +55,9 @@ h1.page-title,
   <h1 style="font-size: 22px; color: #007BFF; font-weight: bold;">
     Mes articles sur la Business Intelligence et l'Analyse de Données
   </h1>
+  <p style="color: #2c5282; font-size: 2.5em; margin: 0; font-weight: bold;">
+     Mes articles sur la Business Intelligence et l'Analyse de Données
+  </p>
 </div>
 <div class="article-list">
   <ul>
