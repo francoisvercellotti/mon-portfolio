@@ -9,25 +9,25 @@
     <priority>1.0</priority>
   </url>
   
-  <!-- Page À propos - NOUVELLE URL -->
+  <!-- Page À propos -->
   <url>
-    <loc>https://francoisvercellotti.github.io/mon-portfolio/data-analyst-freelance-expertise/</loc>
+    <loc>https://francoisvercellotti.github.io/mon-portfolio/about/</loc>
     <lastmod>2025-06-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
-  <!-- Page Projets - NOUVELLE URL -->
+  <!-- Page Projets -->
   <url>
-    <loc>https://francoisvercellotti.github.io/mon-portfolio/projets-data-analytics/</loc>
+    <loc>https://francoisvercellotti.github.io/mon-portfolio/projects/</loc>
     <lastmod>2025-06-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   
-  <!-- Page Articles - NOUVELLE URL -->
+  <!-- Page Articles -->
   <url>
-    <loc>https://francoisvercellotti.github.io/mon-portfolio/blog-business-intelligence/</loc>
+    <loc>https://francoisvercellotti.github.io/mon-portfolio/articles/</loc>
     <lastmod>2025-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
