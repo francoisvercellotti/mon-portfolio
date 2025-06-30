@@ -62,7 +62,6 @@ permalink: /
       font-size: 1.1em;
     }
   </style>
-</head>
 
 <body>
 
@@ -93,4 +92,4 @@ permalink: /
 </div>
 
 </body>
-</html>
+
