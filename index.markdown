@@ -38,7 +38,7 @@ permalink: /
     }
 
     .home-container a {
-      color: #fffaf5 !important;
+      color: #fffaf5;
       text-decoration: none;
       font-weight: bold;
     }
