@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Projets Data Analyst Freelance | François Vercellotti"
-description: "Découvrez mes projets concrets en data analyse, reporting Power BI et tableaux de bord sur-mesure pour PME et startups."
+title: "Mes Projets Data Analyst Freelance : Reporting, Power BI & BI pour PME"
+description: "Découvrez mes projets concrets en data analyse, reporting automatisé et création de dashboards Power BI pour PME et startups. Inspirez-vous de mes réalisations et contactez-moi."
 permalink: /projects/
 ---
 
