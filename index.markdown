@@ -10,7 +10,7 @@ permalink: /
   <style>
     body {
       background: linear-gradient(135deg, #cccccc, rgb(155, 231, 243));
-      color: #333;
+      color: #f5f0e6;
       margin: 0;
       font-family: 'Segoe UI', Arial, sans-serif;
     }
