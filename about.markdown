@@ -241,4 +241,3 @@ permalink: /about/
   
 </div>
 </body>
-
