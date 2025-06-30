@@ -19,8 +19,8 @@ collections:
 # Navigation Links
 navigation:
   - title: "Pourquoi travailler ensemble ?"
-    url: /about/
-  - title: "Découvrir mes projets data"
-    url: /projects/
+    url: "/data-analyst-freelance-expertise/"
+  - title: "Découvrir mes projets data" 
+    url: "/projets-data-analytics/"
   - title: "Articles"
-    url: /articles/
+    url: "/blog-business-intelligence/"
