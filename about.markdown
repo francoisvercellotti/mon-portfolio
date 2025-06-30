@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Pourquoi collaborer avec un Data Analyst Freelance ? | François Vercellotti"
+title: "Pourquoi choisir François Vercellotti, Data Analyst Freelance spécialisé PME & Reporting Power BI"
 description: "Découvrez mon approche en tant que Data Analyst Freelance : structuration de données, reporting Power BI et création de dashboards pour PME et startups."
 permalink: /about/
 ---
