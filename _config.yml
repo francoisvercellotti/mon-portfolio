@@ -1,22 +1,30 @@
-title: François Vercellotti
+# Configuration SEO Optimisée - François Vercellotti
+title: "François Vercellotti - Data Analyst Freelance"
 email: francoisvercellotti@gmail.com
-description: "Mon portfolio personnel, mettant en avant mes projets et mon expérience."
-url: "http://localhost:4000"
-github_username: "François VERCELLOTTI"
+description: "Data Analyst freelance spécialisé en Business Intelligence, dashboards et automatisation de reporting pour PME et startups. Expert Power BI, Excel, Python."
+url: "https://francoisvercellotti.github.io"
+baseurl: ""  # Vide car vous serez à la racine après renommage
+github_username: "francoisvercellotti"  # Pas de majuscules ni espaces
 
+# Thème et optimisations
 theme: minima
+
+# Plugins SEO (gratuits) + vos plugins existants
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
+# Optimisation CSS
 sass:
   style: compressed
 
-
+# Collections (conservées)
 collections:
   projects:
     output: true  # Cela permet à chaque projet d'être accessible via son URL
 
-# Navigation Links
+# Navigation Links (URLs SEO optimisées)
 navigation:
   - title: "Pourquoi travailler ensemble ?"
     url: "/data-analyst-freelance-expertise/"
@@ -24,3 +32,34 @@ navigation:
     url: "/projets-data-analytics/"
   - title: "Articles"
     url: "/blog-business-intelligence/"
+
+# Informations professionnelles pour SEO
+author:
+  name: "François Vercellotti"
+  email: "francoisvercellotti@gmail.com"
+  bio: "Data Analyst Freelance - Expert en Business Intelligence et automatisation"
+  location: "France"
+  
+# Mots-clés pour le référencement
+keywords: "data analyst, freelance, business intelligence, power bi, dashboard, reporting, excel, python, consultant données"
+
+# Configuration SEO avancée
+seo:
+  type: Person
+  name: "François Vercellotti"
+  links:
+    - "https://linkedin.com/in/francoisvercellotti"
+    - "https://github.com/francoisvercellotti"
+
+# Réseaux sociaux (ajoutez vos liens réels)
+social:
+  type: Person
+  name: François Vercellotti
+  links:
+    - https://linkedin.com/in/francoisvercellotti
+    - https://github.com/francoisvercellotti
+
+# Configuration locale
+lang: fr-FR
+timezone: Europe/Paris
+
