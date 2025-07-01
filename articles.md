@@ -75,7 +75,7 @@ h1.page-title,
     </li>
     <li>
       <a href="{{ '/articles/automatisation_pme/' | relative_url }}">
-        Base de données SQL PME : Guide complet pour optimiser votre infrastructure de données en 2025
+        Automatisation reporting PME : Comment transformer vos données en avantage concurrentiel avec Power BI 
       </a>
     </li>
   </ul>
