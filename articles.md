@@ -73,6 +73,11 @@ h1.page-title,
         Base de données SQL PME : Guide complet pour optimiser votre infrastructure de données en 2025
       </a>
     </li>
+    <li>
+      <a href="{{ '/articles/automatisation_pme/' | relative_url }}">
+        Base de données SQL PME : Guide complet pour optimiser votre infrastructure de données en 2025
+      </a>
+    </li>
   </ul>
 </div>
 <body>
