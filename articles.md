@@ -53,7 +53,7 @@ h1.page-title,
 </style>
 
 <body>
-<div class="page-header" style="text-align: center; padding: 40px 0 20px 0; background: #f2e8d5;">
+<div class="page-header" style="text-align: center; padding: 40px 0 20px 0;">
   <h1 style="font-size: 22px; color: #007BFF; font-weight: bold;">
     Mes articles sur la Business Intelligence et l'Analyse de Données
   </h1>
