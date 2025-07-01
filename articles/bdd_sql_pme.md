@@ -125,4 +125,4 @@ Investissez dans vos données pour réussir votre transformation digitale dès a
 
 ---
 
-**Prêt à optimiser votre infrastructure de données ?** Contactez-nous pour un audit gratuit de votre base de données SQL PME. Nos experts analyseront votre situation actuelle et vous proposeront un plan d'optimisation sur-mesure, adapté à vos enjeux métier et votre budget. Ne laissez plus vos données être un frein à votre croissance : transformez-les en moteur de performance.
+**Prêt à optimiser votre infrastructure de données ?** Contactez moi pour un audit gratuit de votre base de données SQL PME.J'analyserai votre situation actuelle et vous proposerai un plan d'optimisation sur-mesure, adapté à vos enjeux métier et votre budget. Ne laissez plus vos données être un frein à votre croissance : transformez-les en moteur de performance.
