@@ -68,7 +68,11 @@ h1.page-title,
         Power BI PME : Comment les Petites et Moyennes Entreprises Optimisent leur Pilotage grâce à la Business Intelligence
       </a>
     </li>
-    <!-- Ajoute ici d'autres articles -->
+    <li>
+      <a href="{{ '/articles/bdd_sql_pme' | relative_url }}">
+        Base de données SQL PME : Guide complet pour optimiser votre infrastructure de données en 2025
+      </a>
+    </li>
   </ul>
 </div>
 <body>
