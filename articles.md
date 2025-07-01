@@ -69,7 +69,7 @@ h1.page-title,
       </a>
     </li>
     <li>
-      <a href="{{ '/articles/bdd_sql_pme/' | relative_url }}">
+      <a href="{{ '/articles/bdd_sql_pme' | relative_url }}">
         Base de données SQL PME : Guide complet pour optimiser votre infrastructure de données en 2025
       </a>
     </li>
