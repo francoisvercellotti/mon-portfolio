@@ -173,6 +173,3 @@ Obtenez votre **devis gratuit d'automatisation reporting PME** et rejoignez les 
 
 ---
 
-*Publié par [Votre Nom]*  
-*Data Analyst & Consultant en Transformation Digitale*  
-*Contact : votre.email@example.com*
