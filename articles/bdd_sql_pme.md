@@ -128,4 +128,4 @@ Investissez dans vos données pour réussir votre transformation digitale dès a
 **Prêt à optimiser votre infrastructure de données ?** Contactez-nous pour un audit gratuit de votre base de données SQL PME. Nos experts analyseront votre situation actuelle et vous proposeront un plan d'optimisation sur-mesure, adapté à vos enjeux métier et votre budget. Ne laissez plus vos données être un frein à votre croissance : transformez-les en moteur de performance.
 
 *Découvrez également nos articles connexes sur l'optimisation des [dashboards Power BI PME](/articles/power-bi-pme.md)
- et l'[automatisation via Power Automate](lien-interne-power-automate) pour une approche globale de votre transformation digitale.*
+ et l'[automatisation via Power Automate](articles/automatisation_pme.md) pour une approche globale de votre transformation digitale.*
